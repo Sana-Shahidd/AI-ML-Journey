@@ -1,0 +1,31 @@
+Employee_ID,Gender,Department,Education_Level,Experience_Level,City,Salary
+1,Male,IT,Bachelor,Junior,Lahore,55000.0
+2,Female,HR,Master,Mid,Karachi,65000.0
+3,Male,Finance,Bachelor,Senior,Islamabad,85000.0
+4,Female,Marketing,High School,Junior,Lahore,45000.0
+5,Male,IT,PhD,Senior,Karachi,120000.0
+6,Female,HR,Master,Mid,Islamabad,72000.0
+7,Male,Sales,Bachelor,Junior,Faisalabad,50000.0
+8,Female,IT,PhD,Senior,Lahore,130000.0
+9,Male,Marketing,High School,Mid,Karachi,60000.0
+10,Female,Finance,Master,Senior,Islamabad,95000.0
+11,Male,IT,Bachelor,Junior,Lahore,58000.0
+12,Female,Sales,Master,Mid,Faisalabad,68000.0
+13,Male,HR,High School,Junior,Karachi,47000.0
+14,Female,Finance,Bachelor,Senior,Lahore,88000.0
+15,Male,Marketing,PhD,Senior,Islamabad,125000.0
+16,Female,IT,Bachelor,Mid,Lahore,76000.0
+17,Male,Sales,Master,Junior,Karachi,54000.0
+18,Female,HR,Bachelor,Mid,Faisalabad,69000.0
+19,Male,Finance,PhD,Senior,Islamabad,135000.0
+20,Female,Marketing,Master,Junior,Lahore,57000.0
+21,Male,IT,,Mid,Karachi,70000.0
+22,Female,,Bachelor,Senior,Islamabad,92000.0
+23,,HR,High School,Junior,Lahore,46000.0
+24,Female,IT,Master,,Karachi,81000.0
+25,Male,Sales,Bachelor,Mid,,62000.0
+26,Female,Finance,,Senior,Lahore,
+27,Male,Marketing,PhD,,Islamabad,128000.0
+28,Female,HR,Bachelor,Mid,Karachi,
+29,Male,IT,Master,Junior,Lahore,61000.0
+30,,Sales,High School,Junior,Faisalabad,48000.0

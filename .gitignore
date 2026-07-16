@@ -1,0 +1,18 @@
+__pycache__/
+*.py[cod]
+
+venv/
+env/
+.venv/
+
+.ipynb_checkpoints/
+
+.vscode/
+
+.env
+
+*.pkl
+*.parquet
+*.html
+10. data_analysis_process/04. amz_uk_price_prediction cleaning and eda/amz_uk_price_prediction_dataset.csv
+10. data_analysis_process/04. amz_uk_price_prediction cleaning and eda/amz_clean.parquet

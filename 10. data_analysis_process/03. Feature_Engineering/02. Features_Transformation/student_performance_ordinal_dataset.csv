@@ -1,0 +1,11 @@
+Student_ID,Education_Level,Study_Hours,Attendance,Performance
+1,High School,Low,Poor,Fail
+2,Bachelor,Medium,Average,Pass
+3,Master,High,Good,Excellent
+4,PhD,Very High,Excellent,Excellent
+5,Bachelor,Medium,Good,Pass
+6,High School,Low,Average,Fail
+7,Master,High,Excellent,Excellent
+8,PhD,Very High,Good,Excellent
+9,Bachelor,Medium,Poor,Pass
+10,High School,Low,Poor,Fail

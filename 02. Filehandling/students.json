@@ -1,0 +1,32 @@
+[
+    {
+        "id": 101,
+        "name": "Ali Khan",
+        "department": "IT",
+        "salary": 75000
+    },
+    {
+        "id": 102,
+        "name": "Sana Ahmed",
+        "department": "HR",
+        "salary": 48000
+    },
+    {
+        "id": 103,
+        "name": "Usman Tariq",
+        "department": "Finance",
+        "salary": 92000
+    },
+    {
+        "id": 104,
+        "name": "Hira Malik",
+        "department": "Marketing",
+        "salary": 53000
+    },
+    {
+        "id": 105,
+        "name": "Zain Ali",
+        "department": "Operations",
+        "salary": 45000
+    }
+]

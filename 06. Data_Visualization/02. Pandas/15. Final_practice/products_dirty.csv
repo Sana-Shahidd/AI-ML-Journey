@@ -1,0 +1,346 @@
+﻿Product ID,SKU ,Category ,Sub Category,Product Name ,Brand,List Price,Standard Cost ,Product Status,supplier name,launch_date 
+P00001,SKU00001,Electronics, Phones ,LUMA NOVA X 1,Luma,564.94,466.28 ,ACTIVE, DELTA GOODS, 2024-07-12 
+P00002, SKU00002 ,ElEcTrOnIcS   ,PhOnEs   ,Apex Nova X 2,APEX,1099.33,713.83,  Seasonal, Alpha Supply,2023-10-26 00:00:00
+P00003,SKU00003,Electronics,Phones,Everly Nova X 3,Everly,238.25,101.97,Active   , ,03/28/2021
+P00004,SKU00004,Electronics,phones,orbit pixelgo 1   ,Orbit,USD 91.84,USD 71.92,Active,ALPHA SUPPLY,07-Jul-2024
+P00005, SKU00005 ,Electronics,NULL,Sierra PixelGo 2,Sierra,903.67,636.22,ACTIVE,Beta Wholesale,2021-02-19 00:00:00
+p00006,SKU00006,Electronics,PhOnEs,LuMa pIxElGo 3,N/A,35.77,29.87,  Seasonal,ALPHA SUPPLY,2023-11-19
+P00007,SKU00007,Electronics   , phones,  ZeNiTh iMaX MiNi 1   ,Zenith,1249.5,569.98,Seasonal,Delta Goods,"Sep 22, 2024"
+P00008,SKU00008,Electronics,Phones,Nimbus iMax Mini 2  ,Nimbus, 276.83,error,Seasonal,DeLtA GoOdS,18-Mar-2022
+P00009,SKU00009,Electronics  ,Phones,BlueRiver iMax Mini 3   ,BlueRiver,459.84,281.6,Active ,Delta Goods   ,06.10.2023
+P00010,SKU00010,Electronics  ,Phones, apex zenphone pro 1   ,Apex ,650.76, 322.53,active,Nova Source ,
+P00011,SKU00011,Electronics   ,	phones, ORBIT ZENPHONE PRO 2,Orbit      ,919.72, 386.05,Active ,  Gamma Imports,28.02.2022
+P00012,SKU00012,  Electronics,Phones,NORTHSTAR ZENPHONE PRO 3, NoRtHsTaR,441.76,$235.54,Seasonal,Gamma Imports ,27-May-2024
+P00013,SKU00013,Electronics,Phones,Apex TalkOne 1   ,APEX,$686.82,USD 510.02,  SEASONAL ,	Delta Goods,2024/03/17 00:00
+ P00014 ,SKU00014,electronics,PHONES,Orbit TalkOne 2,OrBiT,303.51,184.27,Seasonal   ,,"Sep 27, 2024"
+P00015,sku00015,  electronics   ,PhOnEs,Luma TalkOne 3  ,Luma,N/A,332.42,SEASONAL,Prime Traders,30/10/2022
+P00016,SKU00016,Electronics,	LAPTOPS,NORTHSTAR NOTEBOOK AIR 1,Northstar,913.28,USD 397.52,Discontinued,Prime Traders  ,06/29/2022
+P00017,SKU00017,Electronics, Laptops,Orbit Notebook Air 2,Orbit,102.25 ,84.30 ,  Discontinued  ,DELTA GOODS , 06/11/2022 
+P00018,SKU00018, Electronics,laptops,TRUELINE NOTEBOOK AIR 3  ,TrueLine,1448.62,"1,092.55", DiScOnTiNuEd,Delta Goods,2021-01-06
+P00019,SKU00019,electronics   ,Laptops,  Pulse PowerLap 14 1, Pulse,USD 460.40,USD 183.62,Active,  Gamma Imports,2024/07/09 00:00
+P00020,SKU00020,Electronics,Laptops  ,pulse powerlap 14 2,Pulse   ,1027.93,586.0,Active,  GAMMA IMPORTS,09/02/2021
+p00021,SKU00021,Electronics  ,Laptops,Sierra PowerLap 14 3,SIERRA  ,187.45,112.02,Discontinued,gamma  imports,20/11/2023
+P00022,SKU00022,Electronics,Laptops  ,PrimeCo UltraBook X 1, PrimeCo,USD 56.41,45.39,Discontinued   ,Prime Traders," Mar 08, 2024 "
+P00023,SKU00023,Electronics,Laptops,vertex ultrabook x 2,Vertex,391.88,266.97,Active,Beta Wholesale,31-Jul-2022
+ P00024 ,SKU00024,Electronics ,	Laptops, Pulse UltraBook X 3,pulse,$471.01,287.33,Discontinued   ,None,
+P00025,SKU00025,ELECTRONICS  , LaPtOpS ,Nimbus WorkMate 1 ,Nimbus,822.33,363.82 ,  Active,PrImE TrAdErS,28/08/2022
+P00026,SKU00026,Electronics,Laptops,	  BlueRiver WorkMate 2 ,Blueriver,1454.53,1072.81,Active,Nova Source," Mar 03, 2021 "
+P00027,SKU00027,ELECTRONICS,Laptops,PRIMECO WORKMATE 3,  primeco,1409.55,1123.99 ,Discontinued,PRIME TRADERS,2023/12/29 00:00
+P00028,sku00028,electronics,Laptops  ,TrueLine GameCore 1, TrueLine,898.86,728.92, discontinued,  BETA WHOLESALE,2024/07/07 00:00
+P00029,sku00029,Electronics,Laptops,pulse gamecore 2   ,  PULSE,137.3,61.51,Active,	PrImE TrAdErS,2021-04-01 00:00:00
+p00030,SKU00030,Electronics,Laptops,SiErRa gAmEcOrE 3, Sierra,72.61,37.22,  Discontinued,Nova Source,09.02.2022
+P00031,SKU00031,electronics,Audio,  NoRtHsTaR BaSsPoDs 1,Northstar,586.07,284.64,active,  alpha supply , 2021/02/02 00:00 
+P00032,SKU00032, Electronics,Audio,ZeNiTh bAsSpOdS 2,	zenith  ,1243.96,657.28,Discontinued   ,Beta  Wholesale    ,2021/11/23 00:00
+P00033,SKU00033,Electronics,	 audio,Nimbus BassPods 3, nimbus,425.0,264.07,Seasonal,null,not a date
+P00034,SKU00034, ELECTRONICS,AUDIO   ,Everly SoundMax 1,  Everly ,215.68,162.00 ,Seasonal,Gamma Imports, 2024/08/13 00:00 
+None,SKU00035,Electronics   ,Audio  ,,TRUELINE,116.45,98.22,  Discontinued   ,Delta Goods  ,2022-10-31
+ P00036 ,SKU00036,electronics,AUDIO  ,Trueline Soundmax 3,TrueLine ,$1159.51,521.03,Active,Delta Goods," May 06, 2021 "
+P00037,SKU00037, Electronics,Audio,Sierra EchoBuds 1, sierra   ,13.26 ,10.05,Active,ALPHA SUPPLY,2023-03-29 00:00:00
+P00038,SKU00038,Electronics,Audio,apex echobuds 2,Apex,?,USD 758.62,Seasonal,	prime traders, 08-Dec-2020 
+P00039,SKU00039,ELECTRONICS,AuDiO   ,ORBIT ECHOBUDS 3,Orbit,1158.05,448.19,Discontinued, ,20/12/2020
+P00040,SKU00040,    Electronics    ,AUDIO   , Nimbus WaveBeat 1, NIMBUS,540.91,220.66,Active,  Gamma Imports,2020-10-28
+p00041,SKU00041,Electronics,AUDIO   ,Vivid WaveBeat 2,Vivid,$1295.34,857.06,Active, prime traders ,"Aug 17, 2024"
+P00042,SKU00042,Electronics,AUDIO,  blueriver wavebeat 3   ,	blueriver,499.69,190.77,Discontinued,gamma imports,22/09/2021
+p00043,null,Electronics  ,AUDIO,  urbanpeak quiettune 1,UrbanPeak,USD 469.92,$240.88,Seasonal,Gamma Imports,06-Nov-2022
+P00044,SKU00044,Electronics,  Audio,vivid quiettune 2,Vivid, 1095.76,732.82,discontinued ,  alpha supply  ,2022-05-27 00:00:00
+P00045,SKU00045, ELECTRONICS,Audio,,  vertex,1331.38,780.33,Discontinued,Beta Wholesale,05/04/2020
+P00046,SKU00046,  electronics,  accessories,PrimeCo ChargePro 1,None,183.79, 129.87,  ACTIVE,alpha supply,24.12.2021
+P00047,SKU00047,	Electronics,AcCeSsOrIeS ,Luma ChargePro 2,luma,$1142.37,720.42,discontinued,ALPHA SUPPLY," Nov 03, 2021 "
+P00048,SKU00048,  ELECTRONICS, Accessories,SIERRA CHARGEPRO 3 , Sierra,1157.60,690.97,Seasonal,Gamma Imports  ,02.06.2020
+P00049,SKU00049, ELECTRONICS, Accessories,Luma WireHub 1,Luma, 786.49,$443.40,ACTIVE  ,PRIME TRADERS  ,"Feb 07, 2022"
+P00050,NA,  Electronics  ,  Accessories   , trueline wirehub 2,TRUELINE,43.0,17.37, Seasonal,Alpha Supply,2021-04-30
+PO0051,SKU00051,Electronics,Accessories  ,Vertex WireHub 3 ,Vertex,51.99,34.74,  Seasonal,  alpha supply,2023-02-07 00:00:00
+P00052,SKU00052,	Electronics,Accessories   ,Sierra FlexCase 1,Sierra,474.96,287.01,Active,Prime Traders,18.05.2020
+NULL,unknown,Electronics,Accessories,  VERTEX FLEXCASE 2 ,Vertex,1361.81,USD 646.38,discontinued,nova source,30/03/2022
+P00054,SKU00054,Electronics ,Accessories,BlueRiver FlexCase 3,BlueRiver,618.52,450.14,  Discontinued,GAMMA IMPORTS  ,2024/05/12 00:00
+P00055,SKU00055,Electronics,accessories,Zenith  ScreenGuard  1,ZENITH,347.05 ,$134.83,	Seasonal,BETA WHOLESALE,2022-05-21 00:00:00
+P00056,SKU00056,electronics,Accessories  ,Sierra ScreenGuard 2,SiErRa,438.18,USD 188.68,Seasonal,Delta Goods,18/12/2023
+P00057,SKU00057, Electronics,Accessories ,orbit screenguard 3,ORBIT,"1,394.90",$1051.84, SEASONAL   ,  PRIME TRADERS,"Aug 02, 2024"
+P00058,SKU00058, Electronics  ,Accessories,PrImEcO TrAvElDoCk 1 ,Primeco,951.94, 747.97,  Active,nova source,27/09/2022
+ P00059 ,SKU00059,Electronics,Accessories,Orbit TravelDock 2 ,Orbit   ,1206.49,534.82,  ACTIVE,NOVA SOURCE,"Jul 26, 2024"
+P00060, SKU00060 ,Electronics,  accessories  ,  PuLsE TrAvElDoCk 3,Pulse,1339.38,829.98,Discontinued, nova source,n/a
+P00061, SKU00061 ,Home ,Kitchen,BLUERIVER BLENDMASTER 1, BlueRiver  ,1212.12,USD 967.33,Discontinued,, 2021-08-26 00:00:00 
+ P00062 ,SKU00062,    Home,Kitchen ,nimbus blendmaster 2   ,Nimbus,480.42,194.58,ACTIVE ,Beta Wholesale,29.10.2021
+P00063,SKU00063,HOME, KITCHEN,Zenith BlendMaster 3,Zenith,345.76,194.85,Seasonal, Beta Wholesale,2022-11-16 00:00:00
+PO0064,SKU00064,Home ,n/a,ZeNiTh qUiCkKeTtLe 1,Zenith  ,1227.93,958.23,  seasonal,alpha supply ,05.03.2023
+P00065,SKU00065,Home,KITCHEN,  PRIMECO QUICKKETTLE 2 ,	 PrimeCo,15.39,9.32,Active   ,Prime Traders,05/16/2024 PST
+P00066, SKU00066 , Home,Kitchen,Luma QuickKettle 3, luma,629.03,290.02,discontinued,  Delta Goods,02/05/2020
+ P00067 ,SKU00067,Home, Kitchen  ,BlueRiver ChefPan 1, BlueRiver,184.2,95.56,Seasonal,Nova Source,N/A
+PO0068,SKU00068,  Home, Kitchen,UrbanPeak ChefPan 2,Urbanpeak,1414.65,723.74,Active, Gamma Imports,2021-06-05 00:00:00
+P00069,SKU00069, Home,Kitchen, Everly ChefPan 3,  Everly, 780.59,547.59,Active,Gamma Imports,2022-12-22 00:00:00Z
+P00070,SKU00070,HoMe,	 Kitchen   ,Orbit FreshBox 1,ORBIT,548.63,458.59,Seasonal ,Gamma  Imports,30.08.2024
+P00071, SKU00071 ,HoMe,kitchen,Northstar FreshBox 2,Northstar, 1443.86,error,  seasonal,delta goods,27/02/2022
+P00072,SKU00072, HOME  ,	Kitchen  , Everly FreshBox 3 ,  Everly,$748.39,374.52, seasonal, Delta Goods ,2021-07-25
+P00073,sku00073,home,kitchen,TRUELINE TOASTUP 1,Trueline, 430.84,158.74, discontinued  , Alpha Supply,06/22/2022
+P00074,SKU00074,	HOME ,KiTcHeN, ZENITH TOASTUP 2,Zenith, 916.30,USD 551.01,Seasonal,Delta Goods,15/07/2021
+p00075,SKU00075,Home , Kitchen, BlueRiver ToastUp 3,BLUERIVER,81.96,40.1,DISCONTINUED   ,BETA WHOLESALE ,05.08.2020
+P00076,SKU00076,HoMe,Furniture, Orbit OakDesk 1,  Orbit, -1362.86,640.25,Active,Gamma Imports,08-Feb-2022
+p00077,SKU00077,HOME,furniture,Northstar OakDesk 2,NORTHSTAR,221.62,131.8, discontinued,	 Prime Traders  ,01/11/2022
+P00078,SKU00078,Home,	Furniture,NIMBUS OAKDESK 3 , NIMBUS  ,1478.55,696.44,active,Beta Wholesale ,11/05/2021
+P00079,SKU00079,Home,Furniture,Vivid CloudChair 1,	vivid,1009.84,738.0,ACTIVE,Nova Source, 2021-07-25 00:00:00 
+P00080,SKU00080,Home,FURNITURE,Vertex Cloudchair 2,Vertex,n/a,257.27,seasonal,Nova Source, 2022-04-04 00:00:00 
+P00081, SKU00081 ,Home,furniture,  Vertex CloudChair 3, Vertex, 554.84, 369.61,  Seasonal,Gamma Imports,2024-04-26
+P00082,SKU00082,Home  ,  FuRnItUrE,BlueRiver FlexShelf 1,  Blueriver,952.13,588.31,  Seasonal,Prime Traders, 2021/05/06 00:00 
+P00083,SKU00083,	  home ,Furniture,NiMbUs fLeXsHeLf 2,Nimbus,139.98 ,107.46,Discontinued ,prime traders,12-Dec-2020
+P00084,sku00084,HOME,  furniture,BlueRiver FlexShelf 3, BLUERIVER,484.57,$214.79,seasonal ,Gamma Imports  ,05-May-2020
+P00085,SKU00085,HOME ,Furniture ,UrbanPeak ComfySofa 1,Urbanpeak,65.96,42.57 ,  SeAsOnAl,None, 08.01.2024 
+P00086,sku00086,Home,Furniture  , Everly ComfySofa 2,everly,$1017.96,364.73,Seasonal,nova source,2023-03-09 00:00:00
+P00087,SKU00087,Home,furniture,VIVID COMFYSOFA 3  ,  vivid, 770.58,356.97,AcTiVe,DELTA  GOODS,2024/08/22 00:00
+P00088,SKU00088,Home,Furniture,LUMA  NIGHTSTAND  1  ,  ,969.53,423.86,SEASONAL,Gamma Imports   ,22/09/2023
+P00089,SKU00089,Home,Furniture,NIMBUS NIGHTSTAND 2,NIMBUS,1037.95,563.99,  Seasonal,Alpha Supply,01/30/2024
+P00090,SKU00090,Home,Furniture ,Zenith NightStand 3,zenith,USD 1405.41,-588.53,Seasonal,Alpha  Supply, 2022-03-31 00:00:00 
+PO0091,SKU00091,Home,DECOR,Pulse GlowLamp 1, Pulse ,514.89,null,Discontinued ,Prime Traders,2024-05-29
+P00092,SKU00092, home,Decor,  Pulse GlowLamp 2,Pulse,1387.42 ,1094.22,seasonal,Beta Wholesale  ,2021-12-26 00:00:00
+p00093,sku00093,HOME,  decor,PRIMECO GLOWLAMP 3,?,390.62,265.62 , AcTiVe,Beta Wholesale,2023/07/18 00:00
+P00094,SKUO0094,HoMe,Decor,EvErLy wAlLaRt 1 ,Everly,1226.75,$769.91,Discontinued,Delta Goods,2021/01/24 00:00
+ P00095 ,sku00095,HOME,decor ,VeRtEx wAlLaRt 2,vertex   ,N/A,375.25,Discontinued,  Delta Goods ,2022-11-08
+P00096,SKU00096,Home, Decor,Apex WallArt 3, APEX  ,144.19,USD 115.15,Seasonal,Beta Wholesale,03-Sep-2023Z
+P00097,SKU00097,  Home,Decor  ,Zenith SoftRug 1 ,  Zenith,-1351.12,900.59,Seasonal,Gamma Imports, 09/04/2024 
+P00098, SKU00098 ,Home,Decor,EvErLy sOfTrUg 2 ,Everly,511.85,268.52,Seasonal,beta  wholesale      ,07/22/2024
+P00099,SKU00099,HOME,  Decor,Pulse SoftRug 3  ,pulse,1090.30,870.66,Active,Gamma Imports,2020/04/19 00:00
+P00100,sku00100,Home,DECOR,Northstar AromaDiffuser 1,  NORTHSTAR,USD 1331.19,985.00 , ACTIVE,Alpha Supply,2022-08-22
+P00101,SKU00101,Home,  Decor,Vivid AromaDiffuser 2,  Vivid  ,964.84,378.28, seasonal,ALPHA SUPPLY  ,2023/01/15 00:00
+P00102,sku00102, Home,  DeCoR   ,everly aromadiffuser 3,Everly,USD 246.63,197.13,seasonal,  ALPHA SUPPLY,05/22/2020
+P00103,SKU00103,  Home,Decor,NORTHSTAR MIRRORLITE 1,northstar,911.61,323.26,Seasonal ,Delta Goods,28-Feb-2021
+P00104,sku00104,  Home,  Decor,	  orbit mirrorlite 2,  ORBIT ,156.7,unknown,Active,  Alpha  Supply,2022/08/10 00:00
+P00105,SKU00105,home  ,decor,  Primeco Mirrorlite 3,Primeco   ,12.57,5.41,Active,Alpha Supply   ,16.09.2024
+P00106,SKU00106,Fashion,  Men   ,Northstar Urban Tee 1, northstar,825.36,574.41,Seasonal,PRIME TRADERS,05.10.2024
+P00107,SKU00107,Fashion ,Men   ,ZENITH URBAN TEE 2   ,Zenith,USD 979.68,452.74,Active,  BETA WHOLESALE,12/07/2020
+P00108,SKUO0108,Fashion,Men,  trueline urban tee 3,TrueLine,1069.71,501.29,  Discontinued,DeLtA GoOdS,16/01/2022
+P00109,sku00109,Fashion,Men  ,urbanpeak classic shirt 1,UrbanPeak,491.47,?,Active  ,Delta  Goods,24.06.2022
+P00110,SKU00110,Fashion,Men,nimbus  classic  shirt  2,Nimbus,976.2,756.18,Discontinued, Gamma Imports,04/27/2022
+P00111,SKU00111,  Fashion  ,  MEN  ,ZENITH CLASSIC SHIRT 3, zenith  ,988.13,626.63,discontinued,PrImE TrAdErS,2020/03/08 00:00
+P00112,SKU00112,	fashion,Men,  Orbit Denim Flex 1,orbit,145.04,error,ACTIVE,Beta  Wholesale,2020/04/15 00:00
+P00113,SKU00113,  Fashion,Men,ORBIT DENIM FLEX 2,Orbit,401.48, 189.50,seasonal  , GAMMA IMPORTS,2020-09-18 00:00:00
+P00114, SKU00114 ,Fashion,  Men,NIMBUS DENIM FLEX 3,  NiMbUs,1459.65 ,797.77,Active,  Gamma Imports ,11/21/2024
+P00115,sku00115,Fashion,men,Sierra Runner Jacket 1,Sierra,1338.61,890.94,Discontinued,    ALPHA  SUPPLY  ,07/03/2024
+P00116, SKU00116 ,FaShIoN,Men,Vivid Runner Jacket 2,	Vivid,1193.24 ,717.52,Active,Prime Traders  ,15/01/2020
+P00117,SKU00117,Fashion,MEN  ,PuLsE RuNnEr jAcKeT 3,Pulse,867.47,517.24 , SEASONAL  ,Prime Traders,2023-10-08 UTC
+p00118,SKU00118,fashion, Men,PULSE POLO EDGE 1  ,pulse   ,296.89,211.16 ,Active,Nova Source ,2023/12/28 00:00
+ P00119 ,SKU00119,Fashion, men,Vertex Polo Edge 2, VERTEX,424.75,USD 153.83,  SEASONAL,beta wholesale  ,24.12.2021
+P00120,sku00120,Fashion,  men,UrbanPeak Polo Edge 3,  URBANPEAK,969.98,425.39,seasonal,gamma imports,19.04.2021
+p00121,SKU00121,Fashion ,Women,Vertex SilkTop 1,  vertex,"1,410.99",1166.84,DISCONTINUED    ,delta goods   ,2024-03-08 00:00:00
+ P00122 ,sku00122,Fashion,Women,  NORTHSTAR SILKTOP 2, NORTHSTAR,?,734.51,Seasonal,Beta Wholesale, 2024/05/11 00:00 
+P00123,SKU00123,fashion,Women,BLUERIVER SILKTOP 3   ,BlueRiver   ,28.11,$22.89,  AcTiVe,Beta Wholesale ,"May 07, 2023"
+p00124,SKU00124, Fashion,WOMEN ,zenith daily dress 1,Zenith ,645.14, 537.61,Seasonal ,Delta Goods,NA
+P00125,sku00125,  Fashion,  women,Pulse  Daily  Dress  2,PULSE, 1445.61,1122.52, seasonal,,2022-06-18
+P00126,SKU00126,Fashion,Women   ,  sierra daily dress 3,Sierra,445.2,241.54,active   ,,2022-10-01 00:00:00
+P00127,SKU00127,FaShIoN   ,Women,    Sierra  Comfy  Jeans  1,Sierra,1277.45,null,Discontinued  ,prime traders,21.02.2022
+P00128,sku00128,Fashion,Women,BlueRiver Comfy Jeans 2   ,BlueRiver,258.39,162.37,  Seasonal,Nova Source,24/07/2020
+P00129,SKU00129,	Fashion,Women  , Luma Comfy Jeans 3,LUMA,1404.55, 980.40,  discontinued,Gamma Imports , 2024/02/02 00:00 
+P00130,SKU00130,  FASHION,WOMEN,  urbanpeak active leggings 1,URBANPEAK ,857.24,341.69,Seasonal,Alpha Supply,2021/02/27 00:00
+p00131,SKU00131,	FaShIoN,WOMEN,urbanpeak active leggings 2,UrbanPeak,924.44,USD 781.18,AcTiVe   ,  Nova Source,2023-02-11
+,sku00132,FASHION, Women, ORBIT ACTIVE LEGGINGS 3,Orbit  ,214.43,None,Active,Nova Source   ,None
+P00133, SKU00133 ,Fashion,WOMEN,NA,nimbus,1316.67,USD 948.51, Discontinued  ,    Alpha  Supply, 16-Mar-2021 
+P00134,SKU00134,Fashion,Women, APEX BLISS SCARF 2,Apex ,1047.04,734.23 , Seasonal,nova source,2022-04-22 00:00:00
+P00135,sku00135,fashion,WOMEN,Northstar Bliss Scarf 3  ,  northstar,USD 542.44,$269.48,active,Nova Source,2020-10-16 00:00:00
+P00136,sku00136,  Fashion,Shoes,TrueLine Stride One 1,TrueLine  ,"1,214.99",917.39,active,DELTA GOODS,2024-04-12
+P00137,SKU00137,Fashion,Shoes,n/a,  apex,1301.27,"1,049.63",ACTIVE   , Prime Traders, 2024-06-25 
+P00138,sku00138,fashion ,Shoes,SIERRA STRIDE ONE 3,Sierra,769.46,-462.26,    SEASONAL,beta wholesale,04-Mar-2020 PST
+P00139,SKU00139, Fashion,Shoes,Apex CityWalk 1,Apex,1198.45,808.93,Active ,NOVA SOURCE,27-Oct-2021
+P00140,SKU00140,  Fashion,Shoes,Nimbus CityWalk 2  ,nimbus,1054.44 ,788.61,  active  ,Alpha Supply,28/06/2023
+p00141, SKU00141 ,fashion,Shoes  ,VIVID CITYWALK 3 ,Vivid  ,1335.56,693.15,DISCONTINUED,Beta Wholesale,2023-01-04
+P00142,sku00142,fashion ,Shoes, Nimbus TrailX 1,	 Nimbus,566.5,USD 224.90,Seasonal,Alpha Supply,13-Aug-2023
+P00143,sku00143,Fashion,Shoes,Orbit TrailX 2,Orbit,-869.53,  ,discontinued  ,BETA WHOLESALE,29-Dec-2023
+ P00144 ,SKU00144,Fashion    ,shoes,Luma TrailX 3, luma,701.07,435.59,  Discontinued,BETA WHOLESALE,2024/01/21 00:00
+p00145,sku00145,Fashion  ,Shoes,Orbit AirMove 1,Orbit,$433.38,279.71,Seasonal,Alpha Supply,06/04/2024
+P00146, SKU00146 ,FaShIoN,  Shoes,Vertex AirMove 2  ,VeRtEx ,50.6,18.65, ,	Gamma Imports,14-Oct-2021
+p00147,SKU00147,fashion,SHOES,Zenith  AirMove  3,Zenith  ,1234.79,654.56,seasonal,  Beta Wholesale,07/10/2022
+P00148,SKU00148,Fashion,	Shoes,TrueLine Classic Loafer 1,	TRUELINE,194.96 ,119.14,Discontinued,BETA WHOLESALE,2022-01-20 00:00:00
+P00149,SKU00149,  Fashion,Shoes, Orbit Classic Loafer 2,  orbit,"1,156.14",529.41,  DISCONTINUED   ,    Nova  Source,23.04.2023
+p00150,SKU00150,Fashion,SHOES,PULSE CLASSIC LOAFER 3, PULSE,936.22,367.63, Discontinued,beta wholesale,07/21/2022
+p00151,SKU00151,SPORTS, Fitness,Orbit YogaMat 1,Orbit,82.26 ,$50.65,Active,  Nova Source   ,2020-11-28
+ P00152 ,SKU00152,	Sports,Fitness,nimbus yogamat 2,nimbus,USD 813.25,543.83,Seasonal,Alpha Supply, 2020-04-17 00:00:00 
+P00153,SKU00153,Sports,Fitness,BlueRiver  YogaMat  3  ,BLUERIVER,USD 1090.51,913.77,Discontinued,Gamma Imports,21/10/2023
+P00154,SKU00154,sports,FITNESS ,Blueriver Powerbands 1, BLUERIVER,776.87,397.35 ,  Discontinued,Gamma Imports,2022-05-30 00:00:00
+p00155,SKU00155,sports,fitness   ,UrbanPeak PowerBands 2,	  UrbanPeak,1193.8,579.49,  SEASONAL,Prime Traders,12-Aug-2020
+P00156,sku00156,  sports,Fitness,	Apex PowerBands 3,ApEx,661.26,257.38,Seasonal,AlPhA SuPpLy,2020/10/20 00:00
+P00157,SKU00157,Sports, Fitness,Luma SmartBottle 1,luma   ,zero,$35.66,SeAsOnAl,Beta  Wholesale,30.03.2022
+P00158,SKU00158,    Sports,fitness, NIMBUS SMARTBOTTLE 2,Nimbus,USD 1254.79,875.83,  Active  ,Prime Traders,2022/09/05 00:00
+ P00159 ,SKU00159,sports,  fitness ,BLUERIVER SMARTBOTTLE 3,BlueRiver,USD 616.38,NULL,seasonal,Prime Traders,"Feb 24, 2021"
+P00160,SKU00160,Sports   , Fitness,PRIMECO COREBALL 1,  PrimeCo,$238.87,113.49 ,Active,Nova Source,04/02/2023
+P00161,SKU00161,Sports,  FiTnEsS   ,Orbit CoreBall 2,  Orbit,826.09,$584.29, Active,prime traders   , 30-Mar-2022 
+P00162,sku00162,Sports,Fitness,Orbit CoreBall 3  ,Orbit,992.0,486.05,SEASONAL  ,null,2022-12-20
+P00163,SKU00163,Sports    ,Fitness,urbanpeak jumppro 1,UrBaNpEaK ,1432.52,1029.91,ACTIVE,prime traders,2020-07-25
+P00164,SKU00164,SpOrTs,Fitness,BlueRiver JumpPro 2,BlueRiver,833.76,$546.83,Active      ,Alpha Supply,2021/12/31 00:00
+p00165,sku00165,Sports,  fitness,Everly JumpPro 3,Everly,632.3,299.63,Discontinued,  Alpha Supply,2022-07-14 00:00:00
+p00166,SKU00166,Sports,OuTdOoR, Orbit CampLite 1,Orbit   ,$537.18,391.56,ACTIVE,PrImE TrAdErS,"May 09, 2022"
+P00167,SKU00167,Sports  ,Outdoor,urbanpeak camplite 2,urbanpeak, 26.52,USD 10.82,Seasonal,Gamma Imports,05/28/2024
+P00168,SKU00168,  sports ,Outdoor,Nimbus CampLite 3,NIMBUS,$73.77,27.32,Active,alpha supply,27/02/2022
+PO0169,SKU00169,Sports,outdoor,Luma TrailBag 1   , Luma,1283.91,901.09,seasonal,Delta Goods  ,"Jul 28, 2023"
+P00170, SKU00170 ,sports    ,Outdoor ,Vivid TrailBag 2, Vivid,713.89,USD 284.78,Active, GaMmA ImPoRtS,"Oct 03, 2024"
+p00171,SKU00171,Sports,Outdoor,Nimbus TrailBag 3  ,Nimbus,739.97,434.17,Active,alpha supply ,2024-05-03
+P00172,sku00172,Sports,Outdoor,  Vertex HikePole 1,	Vertex,263.94,USD 149.63,Discontinued,Delta Goods,"Jul 24, 2022"
+P00173,SKU00173,Sports    ,Outdoor,urbanpeak hikepole 2,URBANPEAK ,600.76,395.26,discontinued   ,Prime Traders   ,12/05/2023
+P00174,SKU00174,Sports,Outdoor  ,ORBIT HIKEPOLE 3 ,ORBIT,954.47,unknown,Discontinued,Gamma Imports,27.06.2022
+ P00175 ,sku00175,Sports ,Outdoor,ZENITH  SUNTENT  1,ZENITH  ,USD 565.05,374.59,ACTIVE,prime traders,2020/11/15 00:00
+P00176,SKU00176,Sports, Outdoor,VERTEX SUNTENT 2,Vertex,USD 757.19,589.28, Discontinued,BETA WHOLESALE,01/30/2023
+P00177,SKU00177,  sports,Outdoor   ,APEX SUNTENT 3,apex,989.75,n/a,Discontinued,Alpha Supply,2023-09-08
+P00178,SKU00178,sports, outdoor,Everly Hydropack 1,  EVERLY,110.5,74.17,Discontinued,  Alpha Supply,2024/09/26 00:00
+p00179,SKUO0179,Sports,Outdoor,n/a,Everly   ,44.63,USD 28.69,  DISCONTINUED,Prime  Traders,02/15/2023
+P00180,SKU00180,  Sports,	Outdoor  ,sierra hydropack 3,Sierra,1410.64,899.62,SeAsOnAl, Gamma Imports,2023/09/28 00:00
+P00181,SKU00181,SPORTS,Cycling,Pulse RideHelmet 1, Pulse,585.31,393.12,Seasonal,gamma imports,03/21/2021
+P00182,SKU00182,  Sports   ,cycling,Luma Ridehelmet 2,Luma,690.09,429.79,seasonal,Beta Wholesale,2023-07-03 00:00:00
+p00183,SKU00183,  Sports,	Cycling  ,UrbanPeak RideHelmet 3, URBANPEAK,1412.49, 767.05,Active,nova source,14.12.2023
+P00184,SKU00184,Sports,Cycling,orbit gripglove 1,  ORBIT,1441.98,1157.44, DISCONTINUED ,prime traders,N/A
+P00185,SKU00185, Sports,Cycling,Orbit GripGlove 2,Orbit ,$297.71,114.52,Active,  gamma imports   ,2020-02-11
+P00186,None,Sports, Cycling, TrueLine GripGlove 3,TrueLine   , 155.66,55.9,Seasonal,Prime Traders  ,03/08/2022
+P00187, SKU00187 ,sports   ,Cycling,Northstar BikeLight 1  , NoRtHsTaR,  , 101.09,  Active,Prime Traders,15.02.2023
+P00188,SKU00188,Sports,Cycling,Sierra BikeLight 2,Sierra,$111.43,56.77,	DISCONTINUED,Prime Traders ,"Nov 01, 2020"
+P00189,sku00189,Sports,cycling,apex bikelight 3 ,ApEx   ,1268.09,458.59, Active,alpha supply,2022-03-23 00:00:00
+P00190,SKU00190,Sports,Cycling,TrueLine RoadKit 1,TRUELINE    ,$-1222.63,600.22,Discontinued,Delta Goods,06/08/2022
+P00191,SKU00191,SPORTS,cycling,NORTHSTAR ROADKIT 2,Northstar,181.66, 126.87,seasonal,PRIME  TRADERS,2024-08-16 00:00:00
+p00192,SKU00192,	 Sports,Cycling,Vertex RoadKit 3  , ,945.27,745.57,active,Nova Source,2022-01-09 00:00:00
+P00193,SKU00193,SPORTS,	 Cycling   ,northstar  wheelmate  1      ,Northstar   , 1103.93,829.87,  Active,Delta Goods   ,2024-07-25
+P00194,SKU00194, sports ,cycling,Vivid WheelMate 2,  Vivid   ,-426.64,187.18,Active   ,Alpha Supply,"Jun 25, 2022"
+P00195,SKU00195,Sports,Cycling,Nimbus WheelMate 3,  NiMbUs,$1127.17,849.23,Seasonal,DELTA GOODS,04/23/2023
+ P00196 , SKU00196 ,Beauty,Skincare,  Nimbus Glowserum 1  , Nimbus,"1,485.81",826.57,Seasonal,  Beta Wholesale,17/07/2024
+p00197,sku00197,beauty,Skincare,Vivid GlowSerum 2,VIVID ,561.17,414.26 ,  Active, Nova Source, 2021-06-03 
+p00198,SKU00198,Beauty  ,Skincare,BlueRiver GlowSerum 3,  BlueRiver,514.5,USD 419.51,  Active,gamma imports,"Apr 18, 2020"
+PO0199,SKU00199,Beauty ,skincare,Zenith PureClean 1,zenith   ,1288.33,727.26,SEASONAL,Gamma Imports   ,10/02/2023
+p00200,SKU00200,Beauty, SKINCARE,Orbit PureClean 2,ORBIT,1127.55,820.03 ,seasonal,gamma imports,27-Jul-2023 UTC
+p00201,sku00201,beauty  ,Skincare  ,TrueLine PureClean 3,TrueLine,159.17,127.54,AcTiVe   ,prime traders,00/00/0000
+P00202,SKU00202,Beauty   ,Skincare,TrueLine NightRepair 1 ,  TrueLine ,760.35,580.32,AcTiVe   ,nova source ,10/17/2021
+P00203,SKU00203,Beauty,Skincare,BlueRiver NightRepair 2,BlueRiver,483.47,385.69,Seasonal   ,  NOVA SOURCE," Jun 16, 2023 "
+P00204,SKU00204,    Beauty, SkInCaRe,Trueline Nightrepair 3,Trueline,586.86,USD 208.58,  seasonal,Prime Traders,06/04/2023
+P00205,SKU00205,Beauty  ,  Skincare,NORTHSTAR SUNSHIELD 1   ,NORTHSTAR,1358.55,USD 537.50,DISCONTINUED   ,  ALPHA  SUPPLY,2024/04/17 00:00
+P00206, ,Beauty   ,Skincare ,zenith sunshield 2   , Zenith   ,error, 397.97,Discontinued   ,null,25.10.2024
+P00207,SKU00207,beauty  ,Skincare,Orbit SunShield 3,orbit,1426.16,908.06,SEASONAL   ,Gamma  Imports,04/08/2020
+P00208,SKU00208, Beauty,Skincare,  Sierra AquaMist 1,  Sierra,$949.60,$545.28,Discontinued, Gamma Imports  ,08-Nov-2022
+P00209, SKU00209 , beauty ,Skincare,orbit aquamist 2,  ORBIT,443.35,228.03,Discontinued,Delta Goods, 14/09/2024 
+ P00210 ,SKU00210,Beauty,Skincare,BlueRiver AquaMist 3, BlueRiver,1010.42,733.75,N/A,Beta Wholesale,2023-08-24 00:00:00
+P00211,SKU00211,Beauty  ,Haircare   ,Luma SilkShampoo 1,Luma,1188.41,885.14,Seasonal   ,Gamma Imports,  
+p00212,SKU00212,Beauty      ,missing, Everly SilkShampoo 2,EVERLY      ,141.35,84.42,Discontinued,Delta Goods  ,2020-07-20 00:00:00
+P00213,SKU00213,	  Beauty, Haircare,PrimeCo SilkShampoo 3,PrimeCo,91.05 ,$-56.88,	 active,  Alpha Supply ,11-Mar-2022
+P00214,SKU00214,beauty,Haircare,Apex  SmoothOil  1,Apex,665.09 ,$527.98,Discontinued ,Beta Wholesale,2021/09/24 00:00
+P00215,SKU00215,Beauty ,Haircare ,Trueline Smoothoil 2,  TrueLine,529.62,216.37,seasonal,Alpha Supply,2024-06-02
+P00216,SKU00216,beauty   ,Haircare, Nimbus SmoothOil 3,	Nimbus,218.77, 159.87,ACTIVE  ,prime traders,23-Nov-2021
+P00217,sku00217,Beauty,Haircare,	Northstar Curlcream 1,northstar  ,929.24,372.22,active,  Gamma Imports,2021-06-26Z
+P00218,SKU00218,	BEAUTY,Haircare,Northstar CurlCream 2 ,Northstar,130.74,91.58,Discontinued  ,ALPHA SUPPLY,2024-06-06 00:00:00
+P00219,SKU00219, BeAuTy,Haircare  ,Vertex Curlcream 3,Vertex,USD 113.78,86.58,Discontinued,nova source,2022-10-14 00:00:00
+P00220,SKU00220,BEAUTY,Haircare,Zenith DryFix 1,Zenith,1060.83,414.44,  Active ,Beta Wholesale,"Nov 27, 2022"
+P00221,SKU00221,Beauty,haircare, Zenith DryFix 2, ZeNiTh,131.83,$111.17,  Active  ,ALPHA SUPPLY   ,01/29/2022
+P00222,SKU00222, Beauty,	HAIRCARE,Primeco Dryfix 3,PrimeCo,564.53,302.2,  DISCONTINUED   , GAMMA IMPORTS   ,13/07/2023
+p00223,sku00223,Beauty,Haircare,	Vertex FreshRinse 1,vertex,1220.14,1004.94,Discontinued ,Gamma  Imports, 12-May-2024 
+P00224,SKU00224,BEAUTY   ,  Haircare,  VIVID FRESHRINSE 2,	Vivid,"1,479.07",1074.82,SEASONAL ,Gamma Imports,08/17/2022
+P00225,SKUO0225,Beauty   ,Haircare, Sierra FreshRinse 3,Sierra, 567.51,222.32 ,discontinued, Gamma Imports,11/07/2020
+P00226,SKU00226,beauty, Makeup,TRUELINE VELVETLIP 1,TrUeLiNe,1166.83,734.17,Seasonal,Beta  Wholesale,2024-01-16
+ P00227 , SKU00227 ,Beauty, Makeup,northstar  velvetlip  2    ,Northstar,639.21 ,513.4,Active ,  GAMMA IMPORTS,04/11/2021
+P00228,SKU00228, Beauty,makeup,LUMA VELVETLIP 3,Luma,171.24,102.11,    Seasonal      ,  gamma  imports,09/08/2024
+NULL,sku00229, Beauty,  MAKEUP, EVERLY SOFTBLEND 1,everly,21.97,12.84,Seasonal,  Prime Traders, 
+P00230,SKU00230,Beauty,  makeup,Nimbus SoftBlend 2,NIMBUS,89.17,36.51,Active,  Nova Source,2020-04-05 00:00:00
+P00231, SKU00231 ,  beauty,Makeup  ,  EvErLy sOfTbLeNd 3,Everly,USD 180.70,121.9,Active,  DELTA GOODS,2022/03/20 00:00
+PO0232,sku00232,Beauty   ,MAKEUP, ZENITH GLOWBRUSH 1, zenith,"1,120.34",718.9, Active  ,	Beta Wholesale, 01/29/2022 
+ P00233 ,sku00233,beauty  ,makeup,Sierra GlowBrush 2,Sierra,1443.45,775.76,  Seasonal ,Nova Source,15/06/2024
+P00234,sku00234,Beauty,Makeup,Vertex GlowBrush 3, Vertex   , 432.14,338.93,Discontinued,gamma imports,15.02.2022
+P00235,SKU00235,beauty ,  Makeup ,everly eyepop 1, Everly,N/A,282.15,Seasonal  ,Beta Wholesale,06/23/2024
+P00236,SKU00236,BEAUTY,Makeup  ,Orbit EyePop 2   ,Orbit,23.17,19.35,Seasonal,Beta Wholesale," May 15, 2024 "
+P00237,SKU00237,Beauty,	MAKEUP      ,  Primeco Eyepop 3,primeco   ,69.52,55.31, Active   , Nova Source ,27/09/2024
+P00238,sku00238,BeAuTy,Makeup ,Luma ToneMatch 1, Luma,$793.91,672.03,Seasonal,Delta Goods ,2022/01/12 00:00
+ P00239 ,SKU00239,Beauty,makeup,  Vivid ToneMatch 2, Vivid,null,USD 72.30,Discontinued,Alpha Supply   ,2021/10/15 00:00
+P00240,SKU00240,Beauty,Makeup,Northstar ToneMatch 3,NORTHSTAR,1454.11,889.26,Discontinued,GaMmA ImPoRtS,29/12/2020
+P00241,SKU00241, grocery,  Snacks  ,everly crunchmix 1   ,everly,945.95,660.15,Active,Gamma Imports,
+P00242,SKU00242,Grocery, SNACKS,Nimbus CrunchMix 2,Nimbus,$684.54,454.38,seasonal,ALPHA SUPPLY,17-Dec-2023
+P00243,SKU00243,Grocery,Snacks,BlueRiver CrunchMix 3,BlueRiver,878.55,703.35,DISCONTINUED, Alpha Supply,2020/08/13 00:00
+PO0244,SKU00244,	Grocery,Snacks  ,  Apex NutBurst 1,	Apex,72.94,$35.78, Active,Gamma Imports,2021/12/22 00:00
+p00245,SKU00245,Grocery,  Snacks,PrimeCo  NutBurst  2,PrimeCo,1425.87,1133.75, Active,nova source,2022-12-09 00:00:00
+P00246,sku00246,grocery,  snacks   ,Luma NutBurst 3,Luma,686.21,452.94,Discontinued,Prime Traders,07.02.2021
+P00247, SKU00247 , Grocery,Snacks,VERTEX GRANOLABITE 1  , Vertex,419.68,186.36,  Seasonal,Beta Wholesale,04/27/2020
+P00248,SKUO0248,Grocery   ,Snacks,  URBANPEAK GRANOLABITE 2,UrbanPeak,698.23,367.74,    SEASONAL,  alpha supply,"Jun 10, 2022"
+P00249,SKU00249,Grocery,Snacks,SIERRA GRANOLABITE 3   ,Sierra,877.57,341.26,Discontinued,None,26-Nov-2022
+P00250, SKU00250 ,  Grocery,snacks,Northstar Chococrisp 1,Northstar,1461.72,USD 1232.38,ACTIVE,Delta Goods,27/02/2020
+P00251,sku00251,Grocery,Snacks,NIMBUS CHOCOCRISP 2  ,NIMBUS,"1,048.75",648.18,Active,Nova Source,02-Dec-2024
+P00252,SKU00252,Grocery, Snacks  ,Zenith Chococrisp 3,ZENITH,467.74,354.03,  SEASONAL,Delta Goods,"Aug 27, 2022Z"
+p00253,SKU00253,  grocery   ,Snacks,Zenith SaltTwist 1,Zenith,1028.67, 443.67,Active, Gamma Imports,09/03/2021
+P00254,sku00254,Grocery   ,Snacks, Northstar SaltTwist 2   ,northstar, 1366.84,?,Active,ALPHA SUPPLY,2020-04-27
+PO0255,SKU00255,Grocery,Snacks,  vivid salttwist 3,Vivid, 1424.95,"1,015.79",Discontinued    ,Alpha Supply,2024-01-27 +05:00
+P00256,SKU00256, Grocery,Beverages,TrueLine HerbalTea 1 ,  trueline,922.06,515.54,  SEASONAL  ,	Gamma Imports,?
+P00257,SKU00257,GrOcErY, Beverages   ,vertex herbaltea 2,VeRtEx,1399.43,$1095.80,  DiScOnTiNuEd,beta wholesale,2022-11-09 00:00:00 UTC
+P00258,SKUO0258,Grocery,Beverages,Vertex HerbalTea 3,Vertex   ,72.60 ,26.37,Active,  alpha supply,"Jun 08, 2020"
+P00259,sku00259,Grocery,BEVERAGES,  EVERLY SPARKSIP 1,Everly,567.81,USD 428.85,Discontinued,Prime Traders,2022-05-30 00:00:00
+P00260,N/A,Grocery  ,  BeVeRaGeS,Zenith Sparksip 2  ,  ,1480.98,629.73,active,Nova Source,26.03.2021
+P00261,SKUO0261,GROCERY,  beverages,  Zenith Sparksip 3,Zenith,$893.23,482.74,Discontinued   ,Nova Source,2024-10-20 00:00:00
+P00262,SKU00262,grocery,Beverages,  Orbit BeanRoast 1,orbit,1455.02, 1121.91,Seasonal,  ,2021-07-10
+P00263,sku00263,Grocery  ,Beverages,  Orbit BeanRoast 2,Orbit,"1,258.30",735.28 ,seasonal   ,  Gamma Imports   ,2024/09/29 00:00
+P00264, SKU00264 ,grocery ,BEVERAGES,nimbus beanroast 3,Nimbus,625.16,304.27,Discontinued   ,Delta Goods,07-Feb-2020
+P00265,SKU00265,  Grocery  ,BEVERAGES  ,  PuLsE FrEsHjUiCe 1,Pulse,89.28,69.85,  Seasonal,NOVA SOURCE,24.01.2020
+P00266,SKU00266,Grocery   ,BEVERAGES   ,ZENITH FRESHJUICE 2,zenith   ,$1220.29,1037.07,  Discontinued , ,"Feb 01, 2023"
+PO0267,SKU00267,  GROCERY,Beverages,TrueLine FreshJuice 3,TrueLine ,1494.97,$938.42,  seasonal, Alpha Supply, 11/06/2024Z 
+P00268,SKUO0268,grocery,    Beverages,VERTEX ELECTROFIZZ 1, Vertex   ,1154.64,949.56, Active,Gamma Imports  ,2021/02/13 00:00
+P00269,SKU00269,  GROCERY,beverages,Vivid ElectroFizz 2 , Vivid   ,$1275.22,604.04,active,unknown,25-May-2022
+p00270,sku00270,GROCERY,Beverages,  Pulse ElectroFizz 3,PULSE,678.56 ,281.32,Active ,Nova Source,07/29/2024
+P00271,SKU00271,Grocery,  STAPLES,Zenith RiceGold 1,Zenith   ,1431.31 ,934.77,discontinued,Delta Goods,12.11.2020
+P00272,sku00272,Grocery,  Staples,Apex Ricegold 2,  Apex,346.82,237.87,Active  ,unknown,"Aug 02, 2020"
+P00273,SKU00273,  GROCERY,staples,Sierra RiceGold 3,  SIERRA ,929.1,491.57,DISCONTINUED,Prime Traders,2024-08-05
+ P00274 ,sku00274,  Grocery,Staples,Pulse PastaPrime 1,	Pulse,USD 174.77,USD 119.85,  Discontinued,Gamma Imports,2022-05-12 00:00:00
+ P00275 ,SKU00275,Grocery,  Staples,Pulse PastaPrime 2,N/A,782.86,USD 576.31,Seasonal,NOVA SOURCE,missing
+P00276,SKU00276,grocery,  Staples,Vivid Pastaprime 3 ,Vivid   ,782.64,  ,seasonal  ,Prime Traders,"May 31, 2023"
+P00277,sku00277,  GROCERY, Staples,  Pulse  OlivePure  1,  Pulse,830.1,523.35,ACTIVE,Beta Wholesale,"Oct 09, 2023"
+p00278,sku00278,  Grocery   ,Staples  , Everly Olivepure 2,  Everly,NA,$725.87,Active, BeTa wHoLeSaLe,2022-01-31
+P00279,SKU00279,  Grocery,STAPLES,Pulse OlivePure 3   ,  Pulse,205.35,74.83,Seasonal  ,Prime Traders,06-Nov-2021
+P00280, SKU00280 ,grocery, STAPLES,Nimbus HoneyDrop 1,Nimbus,1133.93,748.57,Discontinued   ,Prime  Traders, 2024/11/21 00:00 
+P00281,SKU00281,GrOcErY,Staples   ,VIVID HONEYDROP 2,VIVID,1057.6,482.78,  ACTIVE,nova source   , 
+P00282,SKU00282,Grocery   ,STAPLES,VIVID HONEYDROP 3,VIVID,-208.88 ,74.63,Discontinued,BETA WHOLESALE, 2020/01/17 00:00 
+P00283,SKU00283,	 grocery,Staples,  ORBIT SPICETRAIL 1, Orbit,529.13,341.27,  Active  ,Gamma Imports,2022/12/25 00:00 +05:00
+P00284,SKU00284,Grocery,NA,VIVID SPICETRAIL 2,Vivid,USD 591.40,336.35 ,Discontinued,  Delta Goods,08/09/2023
+P00285,SKU00285,Grocery,staples  ,PRIMECO SPICETRAIL 3   ,PrimeCo,1356.72,711.09,discontinued,Nova Source ,2022-08-06
+P00286,SKU00286,	Office  ,Stationery,Vivid InkFlow 1 ,Vivid  , 773.41,573.74,  ACTIVE,Nova Source  , 06.04.2022 
+P00287,SKU00287, Office,Stationery,Orbit InkFlow 2  ,Orbit,597.83,395.19,Active,n/a, 2024/11/22 00:00 
+P00288,SKU00288,  Office,STATIONERY, Luma InkFlow 3,    luma    ,1294.23,$1067.43,Active,Nova Source,00/00/0000
+P00289,SKU00289,Office,stationery ,BlueRiver NoteNest 1,BlueRiver   ,224.87,182.89,Discontinued,NULL,NA
+p00290,SKU00290,office,Stationery,EVERLY NOTENEST 2,  Everly,$-740.71,354.89,Active,GAMMA IMPORTS,15-May-2023
+P00291,SKU00291,office,stationery, Pulse NoteNest 3,pulse,691.41,580.80,Discontinued,Beta Wholesale,06-Jun-2024
+P00292,sku00292,OFFICE,Stationery,	PrimeCo  ClipBox  1,PRIMECO,741.46, 381.39,Seasonal,Nova Source  ,12.02.2024
+P00293,SKU00293,    OFFICE      ,Stationery  , Northstar ClipBox 2,Northstar,951.93 ,447.48,Discontinued,alpha supply,28-Nov-2022
+P00294, SKU00294 ,Office,Stationery,Luma ClipBox 3 ,  Luma , 118.42,49.08,Seasonal,Gamma Imports,"Jul 30, 2022"
+P00295,SKU00295,  Office,  STATIONERY,Primeco Markerpro 1  , PrimeCo,196.43,83.67,Active   ,Nova Source,2023-10-07 00:00:00 +05:00
+p00296,SKU00296, OFFICE  , Stationery,	 Nimbus MarkerPro 2,NIMBUS,212.55,USD 142.50,Discontinued ,Delta Goods,"Aug 05, 2021"
+P00297,sku00297,  Office ,Stationery, vertex markerpro 3,vertex,276.91,144.78,Seasonal,Gamma Imports,2024/08/19 00:00
+P00298,SKU00298,office,Stationery,Everly PaperEase 1,	EVERLY,1345.7,789.9,Active,Delta Goods,19/03/2023
+P00299,sku00299,Office,Stationery, Nimbus PaperEase 2,Nimbus,"1,003.00",437.47,Seasonal,DELTA GOODS,
+p00300,null,Office      ,  Stationery,BlueRiver PaperEase 3   ,BlueRiver, 292.47,108.34,discontinued,alpha supply ,07-Apr-2020
+P00301,SKU00301,Office,StOrAgE,Sierra FileCube 1 ,Sierra  ,USD 257.56,126.02 ,Discontinued,Nova Source,2020-10-04 00:00:00
+p00302,SKU00302,office      ,    Storage      ,BLUERIVER FILECUBE 2,blueriver,269.63,106.33,    Seasonal,Beta Wholesale   ,2021-05-08 00:00:00
+P00303,SKU00303,Office,STORAGE  ,	  northstar filecube 3,Northstar    ,185.35, 107.58,ACTIVE   ,DELTA GOODS,24.07.2024
+P00304,SKU00304,Office,  Storage,BlueRiver DeskTray 1   ,BLUERIVER,313.47,166.81,Seasonal,None,2023/09/08 00:00
+p00305,SKU00305,  OFFICE,StOrAgE,Orbit DeskTray 2,ORBIT,757.61,-526.69,  Discontinued,Prime Traders,22.05.2023
+P00306,SKU00306,OFFICE,STORAGE,Apex Desktray 3,  Apex  ,63.77,47.81,SeAsOnAl   ,DeLtA GoOdS,2020/05/16 00:00
+p00307,SKU00307,  office ,  STORAGE ,	  blueriver cablenest 1 ,BlueRiver,$943.71,368.88 ,  Active,Prime Traders, 03.06.2020 
+P00308,sku00308,Office,Storage,Northstar CableNest 2,NORTHSTAR,1311.00 ,1062.48, Seasonal,GAMMA IMPORTS, 16.02.2021 
+p00309,SKU00309,Office, StOrAgE  , Luma CableNest 3, Luma,96.31,$47.04,seasonal   ,  DeLtA  GoOdS      ,11/20/2024
+P00310, SKU00310 ,Office,STORAGE,Sierra LabelRoll 1,sierra ,USD 1210.27,$876.39,Seasonal   ,prime traders ,26-May-2022
+P00311,SKU00311,Office,Storage,LUMA LABELROLL 2,LUMA,USD 280.86,127.7,active,Delta Goods,missing
+p00312,sku00312,Office,Storage,PRIMECO LABELROLL 3,PRIMECO,558.86,330.99,discontinued,Delta Goods,17-Jul-2020
+PO0313,SKU00313,OFFICE   ,StOrAgE,Nimbus MiniSafe 1,Nimbus,929.29,$496.67,  Seasonal,  Beta Wholesale,12-May-2024
+ P00314 ,SKU00314,Office    ,Storage, ZeNiTh mInIsAfE 2,ZENITH,696.49,USD 504.07,discontinued,NoVa sOuRcE, 14.06.2022 
+P00315,sku00315,Office,storage ,Trueline Minisafe 3,TrueLine,59.84,28.5,Discontinued,Nova Source,25-Nov-2023
+ P00316 ,SKU00316,Pet,Dog,Luma BarkBites 1  ,Luma,1071.46,854.6,Active,delta goods,09/05/2024
+P00317, SKU00317 ,	Pet   ,Dog,  ,null,769.96,USD 474.34, DiScOnTiNuEd,  ,21.07.2022
+ , SKU00318 ,PeT,Dog,northstar barkbites 3  ,Northstar,165.22 ,94.79,Discontinued, Prime Traders,2021-10-11 +05:00
+p00319,sku00319,pet,Dog,	Luma PawShampoo 1,Luma   ,801.26,377.58,  Discontinued,gamma imports,2023-07-07 00:00:00
+P00320,SKU00320,PeT,Dog ,PrimeCo PawShampoo 2  ,PrimeCo,407.52,219.51,	discontinued,Gamma  Imports,2024-11-30 00:00:00
+P00321,SKU00321,Pet ,  Dog   ,Sierra PawShampoo 3,  Sierra,35.01,17.89,Discontinued,GaMmA ImPoRtS,2020-06-04
+P00322,SKU00322, Pet,Dog  ,NORTHSTAR CHEWBONE 1  ,northstar,321.11, 164.97,  AcTiVe, Alpha Supply ,NULL
+P00323,SKU00323,  PET,Dog,  Orbit  ChewBone  2,    orbit  ,USD 184.04,146.36,  Discontinued,Prime Traders  ,2023-07-07 00:00:00
+P00324,SKU00324,  Pet  ,DOG,  Luma ChewBone 3,Luma ,892.42,615.37,DISCONTINUED, gamma imports,2024-05-01 00:00:00
+P00325,SKU00325,  Pet,dog ,Luma LeashFlex 1,Luma   ,1184.81,$709.96,Seasonal,Prime Traders,2020/02/01 00:00
+P00326,SKU00326,pet,Dog  ,null,  ZeNiTh,134.95,83.47,Active,Alpha Supply,NULL
+p00327,SKU00327,Pet, Dog ,TRUELINE LEASHFLEX 3   ,TrueLine,  ,637.68,Seasonal, prime traders,01/08/2021Z
+p00328,SKU00328,PET,  Dog,Everly DogBed 1,EVERLY  , 650.33,USD 269.10,Discontinued,Gamma  Imports,"Jan 05, 2021"
+P00329,SKU00329,Pet,DOG,northstar dogbed 2,Northstar  ,429.24,228.16,Active  ,Beta Wholesale,07.10.2021
+P00330,SKU00330,PeT   , Dog,    EVERLY  DOGBED  3      ,Everly ,970.65,$616.74,DISCONTINUED  ,Nova Source,14.08.2024
+P00331,sku00331,  Pet,Cat,Orbit WhiskerTreat 1,Orbit,USD 537.36, 453.13,Discontinued,Beta Wholesale,n/a
+P00332,sku00332,PET      ,Cat,Pulse WhiskerTreat 2  ,Pulse,910.63 , 426.73, Seasonal,Nova Source,2023/01/14 00:00
+P00333, SKU00333 ,Pet,Cat  ,  TrueLine WhiskerTreat 3   ,TrueLine   ,157.16,?,SEASONAL ,Prime Traders ,2023/07/11 00:00 +05:00
+P00334,SKU00334,pet   , Cat,Primeco Catlitter 1,PrimeCo,372.71,160.39,Discontinued,prime traders, 29-Nov-2021 
+P00335,SKU00335,PET,CaT,urbanpeak catlitter 2,UrbanPeak  ,283.92,139.84,Discontinued ,  Gamma Imports, 2020-07-23 00:00:00 
+p00336,SKU00336,Pet,CaT,Luma CatLitter 3,Luma,264.19,210.92,Active,Nova Source   ,06-Aug-2022
+P00337,SKU00337,Pet,cat ,NORTHSTAR FEATHERTOY 1,northstar,$124.95,76.5,Discontinued,NoVa sOuRcE   ,11/07/2023
+P00338,SKU00338,Pet,  Cat   ,PULSE FEATHERTOY 2,  pulse ,618.54,520.31,  SEASONAL, Alpha Supply," Jun 02, 2022 "
+ P00339 ,SKU00339,Pet,Cat, Vertex FeatherToy 3   ,Vertex, 172.50,94.69,  SEASONAL,DELTA GOODS,01/07/2024
+P00340, SKU00340 ,Pet,CaT,nimbus scratchpost 1,nimbus,1454.36,1138.41,Discontinued,  Prime Traders  ,2020-11-24
+P00341,SKU00341,Pet , Cat,  NoRtHsTaR ScRaTcHpOsT 2,northstar,1226.52, 587.44,Seasonal,Beta Wholesale ,2021-07-09
+P00342,SKU00342,Pet,cat, Luma ScratchPost 3,Luma   , 260.48, 178.25,Seasonal,  NOVA SOURCE,"Aug 01, 2023"
+P00343, SKU00343 ,Pet  ,Cat,PRIMECO CATBOWL 1,  PRIMECO,-1394.42,876.23,ACTIVE,PrImE TrAdErS,2023/12/20 00:00 UTC
+ P00344 ,SKU00344,PET,Cat,    Vivid  CatBowl  2,vivid   ,ten,421.18 ,  Active,Gamma Imports   ,"Dec 08, 2021"
+P00345,SKU00345,Pet,Cat,  LuMa cAtBoWl 3,luma   ,"1,155.39",512.44,DISCONTINUED ,delta goods,09-Jul-2024

@@ -1,0 +1,101 @@
+    Cat_ID  Name    Age_Years   Coat_Color  Eye_Color
+    1   Birman_001  1   Seal Point  Blue
+    2   Birman_002  2   Blue Point  Deep Blue
+    3   Birman_003  3   Chocolate Point Sapphire Blue
+    4   Birman_004  4   Lilac Point Blue
+    5   Birman_005  5   Cream Point Deep Blue
+    6   Birman_006  6   Seal Point  Sapphire Blue
+    7   Birman_007  7   Blue Point  Blue
+    8   Birman_008  8   Chocolate Point Deep Blue
+    9   Birman_009  9   Lilac Point Sapphire Blue
+    10  Birman_010  10  Cream Point Blue
+    11  Birman_011  11  Seal Point  Deep Blue
+    12  Birman_012  12  Blue Point  Sapphire Blue
+    13  Birman_013  13  Chocolate Point Blue
+    14  Birman_014  14  Lilac Point Deep Blue
+    15  Birman_015  15  Cream Point Sapphire Blue
+    16  Birman_016  1   Seal Point  Blue
+    17  Birman_017  2   Blue Point  Deep Blue
+    18  Birman_018  3   Chocolate Point Sapphire Blue
+    19  Birman_019  4   Lilac Point Blue
+    20  Birman_020  5   Cream Point Deep Blue
+    21  Birman_021  6   Seal Point  Sapphire Blue
+    22  Birman_022  7   Blue Point  Blue
+    23  Birman_023  8   Chocolate Point Deep Blue
+    24  Birman_024  9   Lilac Point Sapphire Blue
+    25  Birman_025  10  Cream Point Blue
+    26  Birman_026  11  Seal Point  Deep Blue
+    27  Birman_027  12  Blue Point  Sapphire Blue
+    28  Birman_028  13  Chocolate Point Blue
+    29  Birman_029  14  Lilac Point Deep Blue
+    30  Birman_030  15  Cream Point Sapphire Blue
+    31  Birman_031  1   Seal Point  Blue
+    32  Birman_032  2   Blue Point  Deep Blue
+    33  Birman_033  3   Chocolate Point Sapphire Blue
+    34  Birman_034  4   Lilac Point Blue
+    35  Birman_035  5   Cream Point Deep Blue
+    36  Birman_036  6   Seal Point  Sapphire Blue
+    37  Birman_037  7   Blue Point  Blue
+    38  Birman_038  8   Chocolate Point Deep Blue
+    39  Birman_039  9   Lilac Point Sapphire Blue
+    40  Birman_040  10  Cream Point Blue
+    41  Birman_041  11  Seal Point  Deep Blue
+    42  Birman_042  12  Blue Point  Sapphire Blue
+    43  Birman_043  13  Chocolate Point Blue
+    44  Birman_044  14  Lilac Point Deep Blue
+    45  Birman_045  15  Cream Point Sapphire Blue
+    46  Birman_046  1   Seal Point  Blue
+    47  Birman_047  2   Blue Point  Deep Blue
+    48  Birman_048  3   Chocolate Point Sapphire Blue
+    49  Birman_049  4   Lilac Point Blue
+    50  Birman_050  5   Cream Point Deep Blue
+    51  Birman_051  6   Seal Point  Sapphire Blue
+    52  Birman_052  7   Blue Point  Blue
+    53  Birman_053  8   Chocolate Point Deep Blue
+    54  Birman_054  9   Lilac Point Sapphire Blue
+    55  Birman_055  10  Cream Point Blue
+    56  Birman_056  11  Seal Point  Deep Blue
+    57  Birman_057  12  Blue Point  Sapphire Blue
+    58  Birman_058  13  Chocolate Point Blue
+    59  Birman_059  14  Lilac Point Deep Blue
+    60  Birman_060  15  Cream Point Sapphire Blue
+    61  Birman_061  1   Seal Point  Blue
+    62  Birman_062  2   Blue Point  Deep Blue
+    63  Birman_063  3   Chocolate Point Sapphire Blue
+    64  Birman_064  4   Lilac Point Blue
+    65  Birman_065  5   Cream Point Deep Blue
+    66  Birman_066  6   Seal Point  Sapphire Blue
+    67  Birman_067  7   Blue Point  Blue
+    68  Birman_068  8   Chocolate Point Deep Blue
+    69  Birman_069  9   Lilac Point Sapphire Blue
+    70  Birman_070  10  Cream Point Blue
+    71  Birman_071  11  Seal Point  Deep Blue
+    72  Birman_072  12  Blue Point  Sapphire Blue
+    73  Birman_073  13  Chocolate Point Blue
+    74  Birman_074  14  Lilac Point Deep Blue
+    75  Birman_075  15  Cream Point Sapphire Blue
+    76  Birman_076  1   Seal Point  Blue
+    77  Birman_077  2   Blue Point  Deep Blue
+    78  Birman_078  3   Chocolate Point Sapphire Blue
+    79  Birman_079  4   Lilac Point Blue
+    80  Birman_080  5   Cream Point Deep Blue
+    81  Birman_081  6   Seal Point  Sapphire Blue
+    82  Birman_082  7   Blue Point  Blue
+    83  Birman_083  8   Chocolate Point Deep Blue
+    84  Birman_084  9   Lilac Point Sapphire Blue
+    85  Birman_085  10  Cream Point Blue
+    86  Birman_086  11  Seal Point  Deep Blue
+    87  Birman_087  12  Blue Point  Sapphire Blue
+    88  Birman_088  13  Chocolate Point Blue
+    89  Birman_089  14  Lilac Point Deep Blue
+    90  Birman_090  15  Cream Point Sapphire Blue
+    91  Birman_091  1   Seal Point  Blue
+    92  Birman_092  2   Blue Point  Deep Blue
+    93  Birman_093  3   Chocolate Point Sapphire Blue
+    94  Birman_094  4   Lilac Point Blue
+    95  Birman_095  5   Cream Point Deep Blue
+    96  Birman_096  6   Seal Point  Sapphire Blue
+    97  Birman_097  7   Blue Point  Blue
+    98  Birman_098  8   Chocolate Point Deep Blue
+    99  Birman_099  9   Lilac Point Sapphire Blue
+    100 Birman_100  10  Cream Point Blue

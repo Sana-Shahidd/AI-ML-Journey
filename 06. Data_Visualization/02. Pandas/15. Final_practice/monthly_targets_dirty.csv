@@ -1,0 +1,2017 @@
+﻿Month ,Region,Category,Sales Target,target margin %
+2022-01 ,North,Electronics,204602.07 ,30.5%
+2022-01,NORTH   ,home   ,150116.61,null
+ 2022-01 ,North ,Fashion, 216937.84,0.129
+2022-01   ,NORTH   ,Sports,77343.39,14%
+2022-01, north,Beauty,38576.45,0.116
+2022-01,North      ,Grocery      ,128446.59 ,34.6%
+2022-01, NORTH, ,ten,0.282
+ 2022-01,north   , PET,133896.37,0.138
+2022-01   ,South,  Electronics,118460.66 ,0.205
+2022-01,    South      ,Home ,-129838.31,0.172
+2022-01,SOUTH,Fashion,176150.32,0.303
+2022-01,South,SPORTS,219332.81 ,0.293
+2022-01 ,South,Beauty,"77,849.71",0.2
+2022-01,  South ,Grocery,"196,641.01",0.164
+2022-01      ,  South,	  office      , 91284.33,0.266
+2022-01,SOUTH,pet,$73438.41,0.087
+2022-01  ,East,Electronics,242537.95,0.203
+2022-01 ,East,  Home,103162.68,0.343
+2022-01,  East,  FASHION,USD 166557.09,0.152
+2022-01,  east,  SPORTS,247385.8,0.279
+2022-01    ,East   ,Beauty, 119294.88,0.276
+2022-01   , East   ,  grocery,189708.62,0.13
+2022-01,east,OFFICE,229679.8,0.315
+2022-01,east, pet ,42676.14, 0.194 
+2022-01,west,Electronics,"192,597.42",18%
+ 2022-01,West,home, 135637.68,0.147
+	2022-01,  west,Fashion,117477.81,0.166
+2022-01, west, Sports  ,"74,140.52",0.165
+2022-01, West,BEAUTY,169010.3,0.175
+  2022-01 ,West,Grocery,USD 233622.98,0.178
+ 2022-01  ,  WEST  ,  Office,159397.63,0.341
+2022-01, West,pet,166251.95,0.095
+	2022-01,CeNtRaL,electronics ,54117.97,--
+    2022-01,  Central,Home,USD 148042.17, 0.317 
+2022-01,Central  ,Fashion,-43521.88 ,0.162
+2022-01,Central,Sports,,0.189
+	2022-01,Central,Beauty, 99600.13,N/A
+  2022-01,	Central,  Grocery,183382.28, 0.195 
+2022-01,Central,Office,63440.7,0.256
+2022-01   ,Central,Pet,88049.70 ,21.5%
+  2022-01 ,International,  Electronics,USD 142510.50,0.245
+2022-01, International   , home,47428.33, 0.253 
+2022-01,International, Fashion,207650.04, 0.325 
+2022-01,International,Sports,183562.65,0.253
+2022-01  ,International,Beauty,USD 167716.24,0.129
+  2022-01,International,Grocery,USD 107607.37, 0.238 
+2022-01,International  ,Office,187945.96, 0.272 
+2022-01,INTERNATIONAL,  Pet,171831.55,17.2%
+2022-02,North,electronics  ,$154893.45,30.5%
+  2022-02   ,North ,Home,98349.16,0.311
+  2022-02, NORTH   ,fashion   , 142818.76,10%
+2022-02  ,North, SPORTS ,132547.31,0.081
+2022-02   ,NORTH,Beauty,86305.21,0.131
+ 2022-02,North  ,  Grocery,161345.35,0.085
+2022-02,North,Office,200120.35 ,0.316
+2022-02,NORTH,Pet,135383.18,22.6%
+2022-02,SOUTH, Electronics,174869.52,0.344
+2022-02,South,Home,124222.13,0.211
+ 2022-02,south,  Fashion,194757.49,0.142
+ 2022-02,  South   ,sports  ,77193.63, 0.18 
+2022-02,South   ,  Beauty   ,$181166.59,0.143
+2022-02, south,GROCERY,"69,514.20",0.305
+  2022-02,south,    office    ,219320.29, 0.339 
+ 2022-02,SOUTH  ,Pet,142705.9,0.118
+2022-02 ,East  ,Electronics,error,0.34
+    2022-02,EAST, Home ,"72,053.31",0.247
+  2022-02,East,FaShIoN,79057.81,0.289
+ 2022-02  ,east,	Sports,219161.19 ,0.317
+2022-02  ,  East  ,Beauty,164969.74 ,10%
+2022-02,East,Grocery,229191.67,30.7%
+2022-02,EaSt,OfFiCe, 67694.10, 0.331 
+2022-02,East ,Pet,"183,395.88",0.291
+2022-02,  West,Electronics,230915.7,0.19
+2022-02,WEST ,HoMe,205673.83, 0.224 
+  2022-02,west,fashion,83125.78, 0.205 
+2022-02 ,West  ,  Sports, 49763.27,0.238
+2022-02,WEST   ,Beauty,"-127,565.99",15%
+2022-02,West,GROCERY,,0.16
+2022-02,West,Office,95431.88 ,0.095
+2022-02,West,Pet ,32602.61,0.228
+	2022-02, Central,  Electronics,145353.21 ,0.192
+2022-02,CENTRAL  ,home  ,USD 156462.75,0.247
+2022-02 ,CENTRAL,Fashion,242089.41,24.7%
+2022-02,central,  SPORTS,172946.65,0.165
+ 2022-02   ,central   ,beauty,50719.69,0.178
+2022-02,CENTRAL,GROCERY,240379.82,0.261
+2022-02,Central,Office,83251.92,0.313
+2022-02,Central,Pet,216260.95, 0.294 
+	  2022-02   ,international,Electronics, ,0.332
+ 2022-02,international,home ,"91,708.00",0.081
+2022-02 , International,fashion,"209,776.14",13%
+2022-02 ,International,Sports  ,"211,814.12",0.227
+ 2022-02  ,International ,Beauty,119183.20 ,0.293
+2022-02,international ,  Grocery,USD 185927.48,0.132
+2022-02,International, OFFICE,$57998.52,0.263
+2022-02,?,Pet,"196,324.13",0.249
+2022-03,north,Electronics,126734.01 ,16%
+    2022-03,North   , Home   ,"-49,289.27",24.7%
+2022-03,	north,Fashion ,42758.99, 0.284 
+2022-03,NORTH ,Sports,68653.01,0.125
+2022-03, NORTH,Beauty ,$128808.87, 0.169 
+2022-03,North,Grocery,140937.33,23%
+2022-03,North ,office  ,70653.13,9%
+2022-03,NORTH,  pet,  ,0.164
+2022-03,south,ELECTRONICS,162455.01,0.214
+2022-03,NULL,Home   ,USD 64820.08,0.343
+2022-03,South   ,FASHION, 141409.27,0.094
+2022-03      ,south, Sports   ,?,20.3%
+ 2022-03,, Beauty,56192.93 ,26%
+  2022-03 ,South   , GROCERY,66238.39,0.33
+2022-03 ,South  ,Office,$34786.34,0.144
+2022-03,South    ,	PET ,USD 183961.64, 0.206 
+2022-03  ,East,Electronics,222505.66,0.284
+2022-03,east,Home ,131442.11,0.105
+2022-03,  East,fashion,104911.28,0.252
+2022-03,east   ,  Sports,131382.39,0.309
+2022-03,East, Beauty,211053.65,0.3
+2022-03, EAST ,  Grocery,128462.91,0.165
+2022-03, East  ,	Office,147237.27,8%
+  2022-03,EaSt,pet,112674.63,0.244
+2022-03,west,electronics,60233.84,0.302
+2022-03,West ,None,$244151.33, 0.344 
+ 2022-03,West,fashion   ,$224015.57, 0.315 
+2022-03,WEST,Sports,-139605.92,0.202
+2022-03   ,    west,beauty, 152148.99,0.237
+    2022-03,WeSt, GROCERY,135273.48 ,0.16
+2022-03   , West,  Office,"247,295.26",0.08
+2022-03,West,Pet  ,30016.31,--
+2022-03,Central, ElEcTrOnIcS,156976.49,0.153
+  2022-03 ,central, Home,"237,504.46",0.175
+2022-03,central, fashion   ,$197137.92,0.241
+2022-03,Central,Sports,77508.17,0.33
+	 2022-03   ,CeNtRaL,	Beauty,34850.94,26%
+2022-03,central   ,Grocery,136837.06,0.335
+2022-03,Central  ,  OFFICE,183342.05, 0.212 
+  2022-03,  Central,Pet,"166,696.84",0.222
+2022-03,  InTeRnAtIoNaL, electronics   ,239703.9,0.258
+2022-03,International  ,Home,$178192.00,missing
+ 2022-03,International,FASHION ,241571.24,24.5%
+2022-03,INTERNATIONAL,Sports,223008.85,0.243
+2022-03  ,International ,BeAuTy,$173387.56,0.104
+ 2022-03,international ,Grocery,241573.05,0.082
+ 2022-03,International,Office ,155632.92,0.23
+  2022-03,International,  PeT, 63111.09, 0.096 
+ 2022-04   ,north   ,electronics      ,220420.42,0.189
+ 2022-04,North, Home,74390.64,0.245
+2022-04 ,  north,	Fashion ,230196.78,N/A
+2022-04,NORTH  , SpOrTs,$110793.37,0.208
+2022-04,North,beauty      ,178703.78,0.134
+  2022-04,NORTH, Grocery,$127542.91,0.268
+2022-04,North,  office,32370.32, 0.093 
+2022-04 ,North   ,PET,44864.32,0.332
+2022-04, South,Electronics,147631.88, 0.235 
+2022-04,South,Home,116389.58,0.27
+2022-04,South,Fashion,137830.34,0.337
+2022-04,South, Sports, ,0.321
+2022-04,South ,Beauty,117125.78,18%
+2022-04,south, Grocery ,51312.83 ,0.182
+2022-04,south, Office,USD 43766.80,0.297
+ 2022-04,  SOUTH,Pet,61795.04,0.204
+2022-04,	EAST   ,Electronics,207693.79,0.294
+2022-04,East,,USD 239943.82,0.237
+2022-04  ,East,FaShIoN  ,32370.64,0.279
+ 2022-04 ,  East,Sports ,118994.64,31%
+2022-04,East, BEAUTY,146167.4,0.317
+2022-04,East,Grocery,184636.72,22.4%
+  2022-04 ,East,Office, 95600.95,0.101
+2022-04   ,East  ,Pet,"183,533.08",0.277
+2022-04,missing,Electronics ,121299.43,34.3%
+2022-04,West   ,Home,242213.62, 0.287 
+  2022-04,  West,FASHION,68989.57,0.272
+2022-04,west,Sports  ,"159,054.97",0.155
+2022-04,WEST , beauty,188995.05,0.319
+2022-04, west,grocery,125270.72 ,17%
+2022-04  ,West,Office,64209.55, 0.267 
+  2022-04,  West  ,  Pet,59272.49, 0.337 
+	2022-04,CENTRAL,Electronics,96549.24,32.0%
+2022-04,Central,  HOME  ,USD 117834.27,22%
+  2022-04,Central,FaShIoN,192105.95,0.104
+2022-04   ,Central,Sports,USD 91929.10,0.342
+2022-04,Central, Beauty,n/a,0.291
+ 2022-04,central,GROCERY,115098.5,16.8%
+2022-04, Central,office   ,"127,220.92",0.106
+2022-04, CENTRAL   ,Pet ,67830.01,0.218
+,INTERNATIONAL,  Electronics,59729.47, 0.307 
+2022-04,International,Home,142381.97,16%
+2022-04,international, Fashion,USD 242177.18,0.274
+  2022-04   ,	International,Sports,"227,471.30",0.32
+2022-04,International,BeAuTy,219111.55,13.1%
+2022-04,  INTERNATIONAL   ,Grocery,206542.58,21%
+2022-04,international,Office,185968.39 ,0.252
+2022-04  ,International,  Pet,"199,831.22",0.278
+ 2022-05,NORTH, Electronics,78339.17, 0.311 
+2022-05, North,  home,173135.13,null
+2022-05,North, Fashion,142804.96,0.258
+2022-05,North,Sports ,-,0.211
+ 2022-05,NORTH,	BEAUTY,173779.74,0.234
+2022-05,North ,GROCERY   ,201697.14, 0.194 
+2022-05,North,office,93454.12,13%
+ 2022-05,north,	PET   ,175975.1,0.199
+2022-05,  South,  Electronics,"117,398.79",0.287
+2022-05,South,Home   , 166311.96,0.239
+2022-05  ,  SOUTH, fashion,84138.36,0.309
+2022-05,South, Sports,168133.06,0.272
+2022-05,south, Beauty   ,USD 107931.71,0.112
+2022-05,South,grocery,"50,418.04", 0.158 
+ 2022-05  , south,  Office,USD 194354.12,0.277
+2022-05, South,Pet,244094.16 ,0.337
+2022-05,  EaSt,Electronics   , ,0.173
+2022-05,East,home   ,113041.89,15.9%
+2022-05,East  ,FASHION  ,134823.5,0.269
+2022-05    ,East,Sports,"229,610.92",0.171
+2022-05,East  ,beauty,"132,312.10",0.241
+2022-05,  East ,Grocery,$57200.46,0.288
+2022-05,EAST , Office,$249274.69,0.151
+2022-05,EAST,Pet,133397.0,0.112
+ 2022-05,  West,Electronics,142489.31 ,0.207
+ 2022-05,West  ,HoMe ,$174278.02,0.123
+2022-05,west, FASHION,36870.3,0.34
+  2022-05,  WEST,Sports,229605.51,0.155
+2022-05,  West,BEAUTY,109329.79 ,0.163
+2022-05,West, GROCERY   ,189919.28,0.207
+2022-05,WEST,Office  ,168930.04,0.329
+2022-05,West, pet ,USD 237227.58,0.275
+2022-05,Central,ELECTRONICS,USD 69135.35,0.333
+ 2022-05,Central,Home,99447.37,0.287
+2022-05,  Central, Fashion  ,"68,320.53", 0.271 
+ 2022-05  , Central,Sports,160601.13,0.23
+2022-05,Central,  beauty,164867.32,0.267
+2022-05   ,Central,Grocery,-212054.75,20%
+ 2022-05, Central,Office,228499.65,0.265
+2022-05,Central ,Pet  ,42113.28,0.144
+2022-05, International,ELECTRONICS,94007.96,0.085
+2022-05,International,  home,44801.23 ,0.279
+2022-05   ,  International,Fashion  ,187549.84,12%
+2022-05, International,	Sports,45929.28, 0.339 
+ 2022-05,International  ,Beauty,$175265.94,0.193
+2022-05  ,International,Grocery,59785.22,0.3
+2022-05,international,Office,$83817.10,34.5%
+2022-05,International ,    Pet,231084.24 ,0.334
+2022-06   , North ,Electronics  , ,0.293
+  2022-06,North   ,Home,244775.15, 0.307 
+ 2022-06,North ,fashion,248052.73,0.176
+ 2022-06,North,sports,177098.5,15%
+2022-06,  North, Beauty,"176,674.47",0.101
+  2022-06,North,	GrOcErY,142650.62,NA
+  2022-06,North ,office,32155.78, 0.22 
+2022-06, North,PET,62841.05,9.8%
+2022-06, south,Electronics   ,USD 64683.40,0.155
+2022-06,SOUTH,HOME,170128.74,0.318
+2022-06,South,FASHION,158853.43,
+2022-06,n/a,Sports,85041.17,0.167
+  2022-06,South,Beauty,49671.33,0.224
+2022-06,SOUTH  ,Grocery  ,"164,610.71",0.306
+2022-06,south  ,  OFFICE,229423.86,19.6%
+ 2022-06, SOUTH,PeT,107929.02,0.334
+2022-06,  East,	Electronics,55492.93,10.3%
+  2022-06, EAST,Home   ,154208.04,11.8%
+2022-06  ,East,FASHION   ,$84550.43,0.258
+  2022-06, East,sports,227782.96,28.4%
+2022-06,East,BEAUTY,118411.6,0.106
+2022-06,East,grocery,122930.47,0.252
+2022-06,EAST   ,	  Office,null,0.247
+2022-06   , East, Pet ,153659.03 ,18%
+2022-06, West,  Electronics,35841.58,0.128
+2022-06 ,West,    Home,152766.8,0.275
+2022-06,west,Fashion , ,0.154
+  2022-06,West, Sports,241672.06,0.18
+2022-06  , West, Beauty  , 32207.65,14.9%
+  2022-06,west,Grocery ,136522.42,0.09
+2022-06,West,Office   ,117712.33,0.208
+2022-06,West,PET,149865.98,0.308
+2022-06,Central,Electronics,129803.27,0.254
+	2022-06,Central,Home,"151,903.12",12.0%
+2022-06,CENTRAL,Fashion,USD 193155.70,22%
+2022-06, Central,Sports ,201673.4,0.198
+2022-06,Central  ,BeAuTy, 216456.96,0.241
+ 2022-06,CENTRAL,GROCERY,220708.36,0.161
+2022-06,CENTRAL   ,Office,70640.81,33%
+2022-06,central,Pet  ,USD 127796.03, 0.168 
+2022-06,  International,electronics  ,"62,109.05",0.214
+ 2022-06   ,International ,  Home,-,25%
+2022-06,INTERNATIONAL,Fashion,$140139.90,0.273
+2022-06 ,InTeRnAtIoNaL,sports,$236491.41,0.131
+ 2022-06,International, BEAUTY ,164372.79,35%
+2022-06,	International,Grocery,131091.1,19.9%
+2022-06  ,international,Office   ,n/a,0.279
+2022-06,international,PET,102937.47,0.116
+2022-07,  North,Electronics ,200901.07,29%
+2022-07,North, home,136384.66, 0.276 
+2022-07 ,NORTH,Fashion   , 212498.63,0.151
+2022-07,  north, Sports,185514.8,0.083
+N/A, North,BEAUTY   ,114818.51,0.262
+2022-07,North,Grocery ,$50017.38,0.22
+2022-07 ,  North,office,USD 141872.52, 0.226 
+2022-07  ,north,Pet   ,138377.13,0.294
+2022-07,South, ELECTRONICS, 94548.34,22.4%
+2022-07,  South,Home,169797.71,0.103
+2022-07,SOUTH, Fashion, 90278.28,0.082
+2022-07,  South,Sports, 163558.51,0.308
+2022-07, south,BEAUTY,74692.75,0.128
+2022-07  ,South,Grocery,147769.54,0.15
+2022-07   ,South,OfFiCe,178557.97,30.4%
+2022-07,NULL,Pet, 64782.84,0.301
+2022-07  ,East   ,  ELECTRONICS,108846.65,0.17
+ 2022-07   ,East  ,,150695.67,20.9%
+ 2022-07   ,East , Fashion,$82957.42,29%
+  2022-07, EaSt,Sports,103622.08,0.227
+  2022-07,East,	 Beauty, 207161.26,0.142
+ 2022-07,east,GROCERY      ,180997.69,0.311
+2022-07   ,East,Office   ,178686.37 ,0.27
+ 2022-07,east ,PeT,USD 133837.40,null
+ 2022-07 ,West ,Electronics   ,"76,865.42",0.336
+2022-07,WeSt,Home,70346.54,16.7%
+2022-07,    WEST,  Fashion   ,"50,813.11",0.229
+2022-07  ,west   ,Sports,USD 198797.44,0.321
+2022-07 ,West  ,  BEAUTY, -34200.20,0.107
+2022-07,West ,GrOcErY,247481.91,0.135
+  2022-07,WEST,Office  ,164924.95,0.112
+2022-07,West   ,Pet  ,231359.77,0.142
+2022-07,    CENTRAL,Electronics,191340.11,0.258
+2022-07,Central,  home,191927.13,0.248
+2022-07,Central  ,  FASHION,194812.06,0.311
+2022-07  ,Central,Sports    ,143007.6, 0.244 
+2022-07,Central,beauty,114846.24,0.292
+2022-07 ,CeNtRaL   ,GROCERY,152644.77,
+ 2022-07,Central , office   ,"54,424.82",0.236
+	 2022-07,central,  PET,"134,699.60",0.22
+2022-07, International, Electronics,USD 141743.79,0.329
+2022-07,international,HOME,221916.65,0.255
+2022-07,International,Fashion,80341.65, 0.211 
+2022-07,International, SPORTS ,104160.40,8%
+	2022-07,International   ,beauty,73980.97,25%
+2022-07,	  International,Grocery,246706.27 ,14.5%
+2022-07,International, ,139436.86,24%
+2022-07,InTeRnAtIoNaL,Pet,125585.82, 0.27 
+2022-08,NORTH,electronics, 119062.51,22.1%
+2022-08,  North,Home      ,238015.74,0.24
+2022-08      ,north ,Fashion,34283.99,0.237
+2022-08  ,NULL,Sports,190387.9,12%
+  2022-08  ,North,BEAUTY ,"208,584.33",0.09
+ 2022-08,NORTH,grocery,68125.36 ,0.148
+2022-08, north,Office,$96991.19,9%
+2022-08,North   ,pet,216762.43,0.343
+  2022-08,South ,ElEcTrOnIcS,175315.04 ,26.8%
+2022-08,south  ,home ,-202119.03 ,0.31
+2022-08   ,South,null,58027.45,0.295
+2022-08 ,South ,sports,92382.67,0.306
+2022-08,South, BEAUTY,"206,418.49",0.321
+2022-08,SOUTH,  GROCERY,$93278.37,0.305
+  2022-08,  South   ,Office,$188015.80,0.193
+2022-08,  SOUTH,pet,USD 164612.09,13%
+,unknown,Electronics  ,n/a,21.3%
+2022-08,East ,Home,131695.04,15.7%
+ 2022-08  ,East,  Fashion ,206167.47,0.336
+  2022-08,East,Sports,169334.32 ,
+2022-08,East,n/a, 132810.19,0.265
+2022-08,EAST,  grocery,110095.0,19%
+    2022-08    ,EAST,OFFICE,84010.33,8.5%
+null,East   ,Pet  , 94712.80, 0.082 
+2022-08,West,Electronics   ,73273.87,0.296
+2022-08,  WEST , Home,225468.79, 0.158 
+2022-08   , West   ,FASHION,242827.06,0.296
+2022-08,West,Sports,46459.98,0.274
+2022-08  ,west,Beauty,59516.10 , 0.274 
+2022-08  ,West,Grocery,108572.81,0.156
+  2022-08,West,OFFICE,74682.16,0.14
+ 2022-08,  West,Pet,216901.00 ,0.168
+2022-08,CeNtRaL   , Electronics ,163028.12,11%
+2022-08  , Central,Home,189963.72,None
+2022-08,central,Fashion,75597.80 ,26.5%
+ 2022-08,Central,    Sports,183693.9,15%
+2022-08, Central   ,Beauty,199118.43, 0.178 
+2022-08, central,Grocery,215009.88,0.195
+2022-08   ,  Central, Office,215846.25,0.322
+2022-08,central,pet,196974.29,0.304
+2022-08,International,ELECTRONICS,104273.6,0.108
+2022-08  ,International,HOME,"226,111.88",22%
+2022-08 ,International,  Fashion,141702.21 , 0.13 
+2022-08 , International ,  Sports   , 215986.70,N/A
+ 2022-08   ,  INTERNATIONAL  ,Beauty ,212073.85,0.286
+2022-08,International,GROCERY,82932.82,22.2%
+2022-08,International, Office ,103873.27,21.1%
+2022-08,International, PET,31817.2, 0.268 
+2022-09,North,Electronics,84256.30 ,0.151
+2022-09,North, Home,"68,155.63",28.8%
+2022-09,North ,  Fashion,USD 136958.35, 0.198 
+2022-09,north  ,SpOrTs,USD 249452.76,0.244
+2022-09   ,North,Beauty,173801.97,0.113
+2022-09,  North  ,Grocery,$60579.08,0.16
+2022-09   ,north,Office,USD 157731.21,0.086
+2022-09,  North,pet ,USD 67595.47,25%
+ 2022-09,SOUTH   ,ELECTRONICS ,34512.14,0.314
+2022-09,SOUTH  ,Home,98962.65,26.3%
+2022-09, South   ,Fashion,n/a, 0.268 
+2022-09   ,South,Sports,100602.49,32.6%
+N/A,South,Beauty,230134.3,25%
+2022-09, SoUtH  ,Grocery,128189.3,0.179
+	2022-09,  South,office,zero,22.0%
+ 2022-09,South,  PET,137272.63,0.196
+2022-09, East,  Electronics,94045.1,30%
+2022-09,East,Home, 227268.85,9.7%
+ 2022-09, east,fashion  ,"98,343.17",0.212
+2022-09,  east  ,Sports,76781.33,20.5%
+2022-09,  East,  Beauty ,$36533.48,0.263
+2022-09,EaSt ,Grocery  ,62324.07,0.276
+2022-09,  East,Office ,30589.72,0.157
+2022-09,East,pet,167491.86,0.082
+2022-09   ,West,Electronics,144268.12 ,0.141
+2022-09,West,HOME,41882.93 ,0.313
+  2022-09, West,fashion,102851.52,17.2%
+2022-09  ,west,Sports ,$94478.40,0.126
+2022-09, WEST,Beauty,168612.02,0.262
+  2022-09,West,Grocery,119151.1, 0.339 
+2022-09, West,  Office,159276.6,0.21
+2022-09,West,PET    , 122492.82,0.297
+2022-09,Central   ,Electronics,149398.34,0.241
+ 2022-09,  Central,Home,102536.47,0.234
+2022-09,Central,Fashion,147811.87,0.183
+  2022-09,Central,Sports,121620.42, 0.338 
+2022-09,Central,Beauty,236924.43, 0.202 
+2022-09  ,CENTRAL , Grocery,54553.01,10.6%
+2022-09,Central,Office ,$219415.19,0.308
+2022-09,central,Pet,52829.54,0.213
+2022-09,  International,Electronics,54855.24,0.229
+2022-09   ,International,Home, 155079.66,0.169
+2022-09,  International,FASHION,62622.97,0.183
+2022-09,INTERNATIONAL,Sports ,226236.49 ,10.3%
+  2022-09  ,International,,USD 202138.74, 0.32 
+2022-09   ,International   ,Grocery,123544.82,0.311
+  2022-09,International,  ,149986.18,0.124
+2022-09,International,Pet ,32075.68,0.2
+2022-10,north,electronics,$101522.92,0.255
+2022-10,North,  Home,222747.59 ,23%
+2022-10, north   , Fashion,38113.59 ,0.092
+2022-10 ,North,SPORTS,$190205.82,0.089
+    2022-10,  NoRtH  ,Beauty    ,126291.55,0.333
+2022-10,NORTH ,grocery  ,141254.94,29.1%
+2022-10 ,North,Office ,123370.81,0.211
+2022-10   ,north,pet,166147.77,12.4%
+2022-10,  South  ,Electronics,134516.73,0.264
+2022-10,SOUTH,home, 113841.50,22%
+2022-10 ,  South,  fashion,USD 231396.05,0.267
+2022-10,SoUtH,SPORTS,128259.85, 0.197 
+2022-10,South   ,Beauty,32816.38,34.2%
+2022-10,south,GrOcErY   ,85292.47,0.211
+2022-10,South,  office   ,$228177.03,0.149
+2022-10,South,PET ,237891.35,0.198
+2022-10  ,East,ELECTRONICS ,118159.99 , 0.127 
+  2022-10, EAST   ,home,98574.03,21.9%
+2022-10,East,fashion,$199070.68,0.349
+2022-10,East, sports,177381.42,33%
+2022-10 ,East,Beauty   ,n/a, 0.19 
+  2022-10,East,grocery,$232728.08,0.292
+ 2022-10,east,office, 203436.35,30.8%
+2022-10,East, Pet,163745.66, 0.215 
+  2022-10, West,Electronics   ,172457.73,32.1%
+2022-10,WeSt, Home,48338.49 ,0.162
+2022-10,West, Fashion,222768.66,?
+2022-10,West   ,Sports,104334.76,21.8%
+  2022-10,  ,BEAUTY,204739.76,0.179
+ 2022-10,West,Grocery  ,128757.29,0.133
+  2022-10   ,WEST,  Office,76056.93,0.301
+2022-10,  West  ,PET  ,"183,053.59",0.092
+ ,central ,ELECTRONICS,96255.38,27.3%
+2022-10   ,central    ,Home   ,"41,397.63",0.26
+2022-10   ,  Central,  Fashion,56436.84, 0.232 
+  2022-10,Central   ,Sports, 103156.80,0.083
+ 2022-10, central,Beauty ,77315.13,0.271
+2022-10  ,Central,Grocery,$68220.29,0.282
+ 2022-10,Central,Office,241056.02,0.22
+2022-10,Central,Pet,193611.59,0.116
+2022-10,International,Electronics,$209424.23,0.12
+2022-10,	international,Home,196965.63,30.7%
+2022-10   ,International, Fashion,"110,126.28",0.322
+  2022-10  ,international  ,Sports,USD 126403.89,0.327
+  2022-10  ,international,Beauty,158488.96,0.342
+2022-10 ,International,grocery,229858.05 ,9%
+2022-10,International   ,Office,USD 92813.39,0.096
+  2022-10,  international,pet, 116348.82,0.263
+  2022-11,	North, Electronics,247122.45,0.266
+2022-11 ,NORTH,Home,148476.78, 0.256 
+2022-11   ,  North ,	fashion,99026.19,0.268
+2022-11   ,North ,SpOrTs,USD 94321.20,0.175
+2022-11, North , BeAuTy,221500.79,0.333
+2022-11,  north, GROCERY,USD 164844.09,10.3%
+2022-11, NoRtH   ,Office,"93,435.09",0.172
+2022-11,NORTH,NA,93640.65, 0.266 
+2022-11, South,electronics,94185.20 ,15%
+2022-11,south,Home,NA,0.327
+2022-11   ,South,Fashion,207777.20,0.168
+ 2022-11,  SOUTH,sports,93794.98,0.082
+2022-11,  South,BEAUTY,198454.41,0.237
+ 2022-11,South , Grocery,140798.05,0.135
+2022-11,SoUtH,Office,"151,864.60",30.0%
+ 2022-11   ,SOUTH,Pet   , 58387.94,0.217
+2022-11,  East   ,Electronics, 133566.58,0.191
+	2022-11, East,NULL,$234400.92,32%
+2022-11,East ,Fashion,$183667.48,0.151
+2022-11,  East,SpOrTs,72699.35,0.212
+2022-11,East,  beauty    ,52583.26,0.229
+ 2022-11,  East   ,Grocery,61714.34,0.307
+  2022-11   ,  EaSt, Office,$105027.19,31%
+2022-11   ,East   ,Pet   ,35874.46 ,20%
+2022-11 ,West,Electronics,56013.48,0.28
+	  2022-11,west, Home,70864.98,24.0%
+2022-11,  West   ,Fashion,151963.79,0.328
+2022-11, WEST , Sports,"211,195.90",0.203
+  2022-11, west  ,Beauty,129676.15,0.098
+2022-11, West, grocery,USD 122282.99,0.131
+2022-11,west,OFFICE,$86826.68,0.231
+2022-11,west,Pet ,169756.59,23.2%
+2022-11  ,  Central,ELECTRONICS,113949.95 ,0.332
+2022-11,  Central,Home,$186640.28,34%
+2022-11   , Central  ,Fashion,246362.86,0.19
+2022-11  ,  CENTRAL   , SPORTS,74287.45,29%
+    2022-11, central,BEAUTY ,34577.9,14.5%
+  2022-11,central,grocery,171836.54,0.16
+ 2022-11,Central  ,office  ,189572.46,29%
+  2022-11,Central,Pet,"152,288.84",26%
+2022-11,international  ,  Electronics  ,"169,038.02",0.181
+2022-11      ,international, Home,225149.88,0.139
+2022-11,  International,FASHION,123695.91,0.227
+2022-11, international ,Sports, 125149.09,34.4%
+2022-11,  International,  BEAUTY,176996.59,0.246
+2022-11,international,Grocery,234785.94,34%
+2022-11   ,NULL,Office,74578.33,34.1%
+2022-11,InTeRnAtIoNaL,Pet,226231.52 ,0.247
+2022-12 ,  NoRtH,Electronics,USD 177857.31,0.322
+  2022-12,  NORTH   ,Home,78489.81,0.308
+  2022-12, North,fashion,USD 247288.35,14.8%
+2022-12  ,north,Sports,$241025.05,0.342
+2022-12   , north,Beauty,140041.88 ,0.201
+2022-12,NoRtH   ,    Grocery, 138610.35,0.137
+2022-12,NORTH ,OFFICE,191839.23,12%
+2022-12,North  ,Pet,153284.29,15%
+2022-12,	south   ,Electronics ,50908.33,13.4%
+2022-12,South, Home,96152.32,0.286
+2022-12,south,FASHION,117456.77,11%
+  2022-12,South,Sports ,65314.33,0.106
+2022-12  ,  SOUTH,beauty  ,176286.34,0.192
+ 2022-12, South   ,GROCERY,106829.65,NA
+ 2022-12,  South,null, 77421.07,0.172
+2022-12 ,south  ,?,185635.51 ,0.306
+2022-12,east,Electronics,63066.68,0.292
+  2022-12,east,home,238364.14,28.8%
+2022-12  ,EAST,Fashion ,33079.43,31.8%
+2022-12 ,East,  SpOrTs  ,USD 144445.11,0.235
+  2022-12  ,	East,BEAUTY,203710.03 ,0.295
+2022-12,East ,grocery,38614.58,0.217
+2022-12,	  East,Office   ,230373.5,0.202
+2022-12, East,Pet,126464.05 ,10.6%
+	2022-12,West,Electronics,USD 210063.69,0.215
+2022-12,West,home,33437.44,0.216
+2022-12,West,Fashion  ,173481.13, 0.232 
+2022-12,WeSt,	Sports ,224470.9,0.313
+2022-12,West,Beauty,185504.05,0.345
+  2022-12,WeSt, Grocery  ,121246.78,34.6%
+ 2022-12 ,West ,  Office   ,243176.53,0.22
+  2022-12,WEST  ,pet,226780.06,18.7%
+2022-12,Central,ELECTRONICS,243148.32,0.303
+2022-12,Central,HOME,249106.7,0.191
+2022-12,	Central,Fashion,"170,552.82",32.4%
+2022-12 ,  central,Sports,$119825.54,0.311
+2022-12,Central,Beauty, 206951.72,0.296
+ 2022-12 ,Central  , Grocery,163834.04,0.127
+2022-12, central,Office,96390.59, 0.134 
+ 2022-12,Central  ,PET,57063.35,0.144
+2022-12,  international,Electronics,200151.96 ,0.285
+  2022-12,	  international,Home,30952.96,25.3%
+2022-12,  international,Fashion ,225548.02,0.227
+2022-12, International,sports,222570.35,16%
+2022-12,International ,beauty,71182.17,0.279
+2022-12  ,INTERNATIONAL,Grocery   ,zero,34.4%
+2022-12,  International , OFFICE,$62622.46,10.4%
+2022-12,International,Pet,117161.56,8.1%
+2023-01  ,NORTH,electronics,72138.45 ,0.208
+2023-01  ,North,HOME  ,206147.83,0.159
+2023-01,  North,  Fashion, 107000.52,15.6%
+    2023-01,North,sports,$48716.64,0.202
+2023-01,North,	Beauty,32042.13 ,0.138
+	  2023-01,NORTH,GROCERY,235112.88,0.239
+2023-01,north,Office,205751.09,0.348
+2023-01,North,None,77962.54,0.15
+2023-01  ,South,Electronics,84438.41,0.098
+2023-01  ,South,HOME,USD 76171.53,0.192
+  2023-01  ,SoUtH,  FASHION,175613.27, 0.279 
+2023-01,	South   ,SPORTS,"139,444.67",16%
+  2023-01,South   ,Beauty,88479.87,0.34
+    2023-01    ,South,grocery,139672.76, 0.124 
+2023-01,  South,Office,145586.77,0.099
+2023-01,South,Pet, 139357.47,0.289
+2023-01,East,Electronics    ,63150.61,11.3%
+2023-01,East,home,97183.75,0.156
+2023-01,East,Fashion,57375.13 ,0.131
+2023-01,East,SPORTS,91876.72,0.082
+2023-01,EaSt   ,Beauty   , 242489.83, 0.287 
+2023-01, East,grocery,161331.72 ,0.338
+2023-01,EAST,Office,217676.73,0.325
+  2023-01  ,EAST   ,Pet,157439.62,0.197
+2023-01,WEST,Electronics ,149392.57, 0.181 
+2023-01,WEST,  Home ,99111.67,0.31
+2023-01,west    ,Fashion,84377.38,0.195
+ 2023-01,West, Sports,$83211.30,0.118
+2023-01,,beauty,error,0.111
+2023-01,West,Grocery,107182.12,0.198
+2023-01,west,Office,104134.66 ,zero
+  2023-01,west,PET,249993.81,18.0%
+2023-01, Central, Electronics,79115.12,0.329
+2023-01,None,Home ,78528.73,0.233
+unknown,Central,  Fashion,137679.4,0.082
+ 2023-01,Central   ,sports,?,0.182
+    2023-01,  Central,beauty,75823.04, 0.234 
+2023-01   ,Central,Grocery ,100600.76,0.259
+2023-01, CENTRAL,Office  ,179314.98,0.318
+2023-01,Central,Pet,95714.89,0.345
+ 2023-01,INTERNATIONAL ,Electronics  ,62936.39,0.24
+	2023-01, International,Home,30560.94 ,0.238
+2023-01,  International   ,FaShIoN,77774.85, 0.332 
+2023-01  ,INTERNATIONAL,Sports,$66307.47,0.278
+2023-01,INTERNATIONAL,Beauty,249865.68,0.295
+  2023-01 ,international,    grocery,30046.82,0.298
+2023-01, INTERNATIONAL,OFFICE,"41,294.54",0.331
+	2023-01,	International,Pet,201075.97,14.8%
+2023-02,North,ElEcTrOnIcS,218718.86,0.086
+ 2023-02,North ,  home,110038.52,0.135
+2023-02,North,Fashion,"119,275.38",0.132
+2023-02 ,NORTH,SPORTS,181676.72,0.294
+2023-02   ,  North,Beauty,  ,0.227
+ 2023-02, North,Grocery,"107,647.60",0.343
+2023-02   ,North,Office   ,139352.83,19%
+2023-02   ,North,pet,$92982.26,0.324
+  2023-02,South,electronics,185110.03 ,0.18
+  2023-02,South,  home,"229,915.88",error
+2023-02,South,Fashion,241371.57,0.205
+2023-02,South, sports,USD 170427.85,0.273
+2023-02,SOUTH,Beauty,132220.07,14%
+2023-02,South,Grocery   ,93363.01 ,0.196
+ 2023-02,South,office ,151542.05 ,0.248
+2023-02, South,  PET   ,USD 178724.73,0.088
+  2023-02,NULL,Electronics,32866.59,0.274
+  2023-02,East,  Home,"119,596.17", 0.143 
+2023-02, East   ,  Fashion,39820.24,0.13
+2023-02,East, sports,68266.98, 0.339 
+2023-02,EAST,Beauty, 191471.75, 0.34 
+  2023-02,East,  Grocery,USD 129117.46,0.279
+2023-02  ,east,Office,228292.15,17%
+2023-02,East,  PET,106655.39,0.16
+2023-02      ,west,Electronics   ,222701.07,0.287
+2023-02,  West,home  ,USD 230299.70,0.163
+2023-02,west,Fashion  ,187640.28,14%
+	  2023-02,west,Sports  ,$194935.97,0.282
+2023-02   ,west, beauty , 131630.00, 0.278 
+2023-02 ,West,Grocery, 197347.88,0.248
+2023-02  ,West,Office,USD 198614.22,10%
+2023-02 ,west,Pet, 168659.41, 0.155 
+ 2023-02  ,  CENTRAL,  Electronics  ,80956.90 ,0.321
+ 2023-02,  central,Home  ,46252.47,0.158
+2023-02,Central,Fashion,198445.04,0.256
+2023-02,	CENTRAL,Sports,104895.17,0.118
+unknown,central, beauty,136244.53, 0.261 
+2023-02,Central   ,GrOcErY,244854.65,35%
+2023-02,Central,office  ,222216.52,unknown
+	2023-02   ,CENTRAL ,,USD 135222.83,0.32
+2023-02,International,electronics , 199285.77,0.232
+2023-02,International,HOME,$148738.65,0.185
+2023-02 ,international, Fashion,73162.27,31.8%
+2023-02, International,SPORTS,218039.07,0.244
+2023-02,  International, BEAUTY,n/a,0.127
+,International   ,Grocery,77491.6,0.263
+2023-02,international,office,USD 193286.28,0.26
+2023-02,International  ,Pet  ,USD 55530.85,0.233
+	2023-03 ,NORTH,Electronics   ,178347.98,0.141
+ 2023-03,  North,	Home,185264.7,35.0%
+2023-03,North,Fashion,,0.294
+	2023-03,North ,Sports,80356.43,0.182
+  2023-03,North,Beauty,217312.92 ,0.086
+2023-03 ,NoRtH, Grocery  ,$141162.11,0.186
+2023-03 ,north,Office ,199243.29,0.209
+  2023-03,North,  pet,211997.26,0.164
+2023-03,,electronics,181151.92,17%
+2023-03   ,South,HoMe ,80496.51,0.284
+2023-03,south, Fashion,201949.43,0.218
+2023-03  ,SOUTH,Sports,USD 104002.35,
+2023-03,south,BEAUTY,196652.93,0.251
+  2023-03  ,South   ,GROCERY,179029.41,0.229
+2023-03,South   ,  OFFICE,48882.22,0.279
+  2023-03,  South,  PET,183064.10 ,0.119
+2023-03,East,ELECTRONICS,68512.02,0.183
+  2023-03  ,East,  HoMe,n/a, 0.189 
+2023-03, East,Fashion,140785.40,0.197
+2023-03,east,  Sports,USD 225008.86,0.272
+ 2023-03,  East,beauty,240271.17,0.309
+2023-03,  EAST,GROCERY,$244010.28,0.33
+2023-03,East  ,office,USD 85448.89,0.311
+2023-03   , East,pet ,190040.48 ,0.232
+2023-03,west, Electronics,46266.44,0.198
+2023-03,	WEST,Home,240977.15 ,0.1
+	2023-03,  West, fashion,35406.42,32.8%
+2023-03, west,sports  ,189093.92,0.329
+  2023-03, WEST,Beauty  ,NULL,0.177
+2023-03,West,Grocery   ,"197,416.40", 0.186 
+ 2023-03,West   ,NA,$70711.69,0.182
+2023-03,  West,Pet   ,171440.07,0.344
+2023-03,Central,electronics   ,194302.82,0.225
+ 2023-03,CENTRAL,HOME,57460.77,0.114
+2023-03,  CENTRAL,Fashion,233957.56,0.292
+2023-03  ,    Central      ,Sports,235589.48,0.186
+2023-03,CeNtRaL,Beauty ,135805.28, 0.263 
+2023-03,Central   ,  Grocery,"212,692.24",26%
+2023-03, CENTRAL,Office,176357.58,0.299
+2023-03,CENTRAL ,pet,"172,991.02",0.225
+2023-03  ,InTeRnAtIoNaL   ,  Electronics ,168892.45,24%
+2023-03,International,Home,93986.82, 0.265 
+2023-03,International,Fashion,177077.31,0.114
+2023-03,INTERNATIONAL ,Sports,$138847.20,N/A
+2023-03, international,Beauty  ,113666.92 ,0.097
+  2023-03,International  ,grocery,81229.01,0.256
+2023-03,International , Office,96769.74,0.275
+2023-03,InTeRnAtIoNaL,  Pet   ,44554.77,0.137
+2023-04,North, ELECTRONICS   ,USD 72555.44,23%
+2023-04,North,HOME,50889.87,0.121
+2023-04,North,FASHION, 147457.82,0.319
+  2023-04,NORTH  ,sports,144670.21, 0.233 
+  2023-04,North  ,Beauty,48979.17 ,0.206
+2023-04,North,grocery   ,241609.45 ,23.5%
+2023-04,NoRtH,OfFiCe  ,61248.67 ,30%
+ 2023-04 ,NoRtH,Pet,38330.87,0.298
+2023-04  ,South,Electronics ,-186359.22,0.189
+	2023-04,South, HOME,"91,164.56",0.245
+ 2023-04,South,	fashion   ,"138,980.30",17.1%
+2023-04,South,unknown,160168.09, 0.252 
+    2023-04,South,Beauty,52771.56, 0.102 
+  2023-04,  South,Grocery   ,174835.37,0.299
+2023-04,South   ,OFFICE,169576.72,0.139
+2023-04,SOUTH,Pet,197467.5,0.253
+  2023-04 ,East,Electronics,149541.88,0.134
+2023-04,  East,home,105059.93,0.311
+2023-04,East,FASHION,"228,560.91",0.299
+2023-04,East      , Sports,242406.11 ,  
+2023-04  ,East,Beauty,99269.47,12.2%
+2023-04,east    ,Grocery,240521.75,0.225
+ 2023-04,  EAST,Office,$227566.57,0.135
+	2023-04,East,Pet,USD 179092.30,0.272
+2023-04,West,electronics,128661.36 ,0.31
+2023-04,west,Home,133422.14,0.115
+2023-04 ,  West   ,Fashion,73306.49,0.17
+2023-04,  West  ,sports,114416.16,0.344
+ 2023-04   ,WEST,Beauty,USD 64687.19, 0.182 
+2023-04,West,GROCERY,125881.93,0.278
+2023-04,West,	OfFiCe  ,147741.03,  
+2023-04,  West    ,  Pet   ,USD 134686.28,0.137
+2023-04,CENTRAL,Electronics,$91197.12,0.28
+2023-04,  Central,  ,168024.81,0.32
+2023-04, Central,Fashion,USD 135348.77,0.237
+2023-04,  Central,Sports   ,226317.67,0.098
+2023-04, Central,Beauty,76235.12,0.23
+2023-04    , CENTRAL,grocery,238662.74, 0.161 
+2023-04,Central,  OFFICE,USD 30272.29,0.115
+2023-04,CENTRAL,Pet,$220094.92,0.148
+2023-04, INTERNATIONAL, Electronics   ,245620.29,0.225
+ 2023-04,International  ,Home  ,141252.76,0.106
+2023-04 , International,  Fashion,209209.82,22%
+2023-04,International,Sports,143615.59,0.311
+2023-04,international , BEAUTY,54161.48,0.147
+2023-04,international,Grocery, 218083.58,25%
+  2023-04 ,International,Office,"237,107.11",16%
+missing,international  ,  Pet   ,146708.41,0.251
+2023-05,North, electronics   ,136219.57,0.348
+2023-05, north,Home,68033.74,0.331
+  2023-05,North,  fashion, 64634.20,14%
+2023-05, North  ,Sports,"186,100.02", 0.088 
+    2023-05, NORTH,Beauty,248298.86 , 0.333 
+  2023-05,North  ,Grocery,"232,129.01",0.306
+	2023-05,NORTH  ,Office,126391.94,11%
+2023-05,  NORTH, Pet   ,USD 135219.79,0.273
+2023-05   ,SOUTH,unknown,"243,337.44",0.108
+  2023-05,	 South,home  ,201091.29,0.093
+2023-05  ,south ,	Fashion,$73429.30,0.262
+2023-05,South ,SPORTS,241113.4, 0.184 
+missing,South,beauty,149035.94,0.162
+2023-05,south,GROCERY   ,118599.89, 0.166 
+2023-05 , South,Office,missing, 0.26 
+2023-05  ,South,Pet,234357.57 ,0.169
+	  2023-05, East   ,Electronics,101677.59, 0.171 
+2023-05,east,  Home, 64575.74,0.085
+2023-05,East   ,Fashion,176969.93,0.122
+2023-05  ,East,sports,55486.53,0.149
+2023-05 ,East,Beauty,245532.26,0.141
+2023-05 ,East,Grocery      ,150750.65,32%
+  2023-05,East,office,47067.45,0.343
+NULL,East,Pet,98450.15,0.19
+2023-05 ,West,  Electronics ,230495.84,19%
+  2023-05,West,Home  ,--,19%
+2023-05   ,West  ,Fashion,128773.22,0.152
+2023-05   , WEST,	  Sports,129587.33,11.2%
+2023-05  ,West,Beauty,193109.36,12%
+2023-05,    West,Grocery,74394.16,13%
+2023-05,,  office,109212.34, 0.131 
+2023-05 ,  WeSt,  Pet,$83137.16,0.088
+2023-05,Central,Electronics,146637.3,0.189
+ 2023-05  ,	CENTRAL  , Home,?,0.283
+ 2023-05  ,Central,  Fashion,$142466.03,9%
+ 2023-05,central,Sports  ,193892.81,0.193
+?,Central,BEAUTY,220133.67,0.167
+2023-05,Central,  GrOcErY,31033.00,11%
+2023-05,central  ,OfFiCe,47685.29,18%
+	2023-05,  Central,Pet,136775.78, 0.168 
+2023-05,INTERNATIONAL,ELECTRONICS,95806.21,0.347
+2023-05,International,home,152065.56,0.118
+2023-05   ,InTeRnAtIoNaL,Fashion,65237.5,0.153
+2023-05   , international  ,Sports , 143342.30,0.272
+2023-05,International,beauty,243620.25,0.184
+2023-05,International ,GrOcErY,142976.18,0.182
+2023-05 ,International,Office,174592.11 ,0.174
+2023-05,  International,Pet,243898.48,0.257
+2023-06,	North,Electronics, 56492.33,0.241
+2023-06,North,Home , 103080.59,10.7%
+2023-06   ,North  , FASHION,$98773.52,0.149
+  2023-06,North,Sports,145766.78,0.276
+2023-06  ,North,Beauty,248976.87,0.127
+  2023-06,NORTH,Grocery ,USD 233554.93,0.091
+  2023-06,  North,office,99972.77 ,0.289
+2023-06,North,pet,172644.15,0.212
+2023-06,South,Electronics,$83801.74,31%
+  2023-06,South,Home,N/A,0.169
+2023-06   ,south,fashion,189278.68,32.5%
+2023-06  ,south  ,Sports,199073.47, 0.132 
+2023-06  , SOUTH,Beauty ,67992.59,0.122
+  ,    south,  Grocery,76158.92,0.121
+2023-06,south, Office,$52539.40,0.207
+2023-06,  SOUTH,Pet,41194.35,0.154
+	  2023-06,East,electronics,190415.03,17.5%
+2023-06,East,  Home, 79028.63,20%
+2023-06  ,EaSt,Fashion ,207427.05,0.115
+2023-06,  East,  SPORTS,100053.63 ,0.303
+ 2023-06,East,BeAuTy,138279.56,0.124
+2023-06,East,Grocery,198847.44, 0.086 
+2023-06,East   ,OFFICE   ,234825.86,0.223
+2023-06, east,Pet ,215607.76,10%
+2023-06,West,Electronics,202814.99,0.191
+2023-06   ,WEST,Home,100734.83,20%
+2023-06,West,Fashion,114366.48,0.129
+2023-06,West   ,Sports,206162.42,0.189
+  2023-06,west   ,beauty, 205614.79,0.224
+2023-06,West, Grocery,134754.15,0.124
+  2023-06 ,West,Office,109613.24,0.336
+2023-06,  West,Pet,122131.76, 0.182 
+2023-06 ,Central ,    Electronics,147771.63,0.086
+  2023-06   ,Central,Home,217931.42 ,0.331
+2023-06,Central,	fashion,$53654.20,0.318
+  2023-06 ,Central,Sports,30641.02,0.165
+2023-06,Central ,Beauty,135091.31,0.338
+2023-06,CENTRAL,Grocery,71687.69, 0.277 
+2023-06,Central,Office, 159475.46,0.311
+2023-06,Central,  Pet,USD 51850.68,0.285
+  2023-06 , International   ,Electronics  ,USD 40924.84,33%
+  2023-06,International,	Home,40486.91,0.328
+	2023-06   ,International,  Fashion,65480.3,NULL
+2023-06,International,Sports,$101826.31,27%
+2023-06,International,beauty,"89,730.68",0.277
+ 2023-06,    international,Grocery,USD 70884.52,error
+2023-06,International,Office,54851.69,0.125
+2023-06,International ,Pet,40063.91,16.7%
+2023-07,North,NULL,182099.03,0.091
+2023-07 ,North,Home,46975.69 ,17.1%
+2023-07  ,north,Fashion  ,188398.6,0.337
+2023-07,North,NULL,195893.45 ,28.0%
+2023-07, North,BEAUTY  ,89051.41,0.245
+2023-07,  north,Grocery,122577.71,missing
+2023-07,north,Office,177831.59,0.088
+ 2023-07 ,North,n/a,"225,608.69",0.196
+2023-07  ,South,Electronics,53717.37,32.3%
+2023-07    ,SOUTH,home,39810.42,0.334
+2023-07,south,Fashion,161195.87,12.9%
+ 2023-07   ,SOUTH,Sports,100540.25,0.184
+2023-07,SOUTH   ,beauty   ,232181.04,0.231
+2023-07,south,Grocery,unknown,0.179
+2023-07      ,south,office,"66,234.48", 0.204 
+2023-07,South,PeT   ,109411.61,0.268
+  2023-07   ,  East,	electronics,208539.00,ten
+2023-07, East,Home,"163,662.30",27%
+ 2023-07,  East,Fashion,164513.04,0.266
+2023-07  ,  East, Sports,213851.55,0.087
+2023-07, EAST  ,Beauty,46642.5,0.19
+2023-07,East,grocery,USD 169191.84,20.9%
+2023-07 , East  ,OFFICE,241924.15,0.164
+2023-07,EAST,  Pet,167963.15,32%
+2023-07   ,  west,electronics,"68,049.92", 0.274 
+2023-07,West    ,Home,242139.27,0.248
+2023-07,  west,  Fashion,155736.05,26%
+  2023-07   ,WeSt,sports, 203327.35,0.088
+2023-07,West,BEAUTY,163736.09,0.204
+2023-07,West  ,Grocery,239510.46,0.152
+2023-07,west,OFFICE,$66324.42,0.306
+  2023-07,    west,Pet,173917.74,9.2%
+2023-07,  Central,Electronics,50785.24 ,0.219
+ 2023-07,Central,HoMe,92506.66,0.32
+2023-07,Central,Fashion   ,60350.35, 0.267 
+ 2023-07,Central,SPORTS,$121820.34,0.271
+2023-07,Central , beauty,243322.53, 0.294 
+2023-07,  Central  ,grocery,$201375.12,20.7%
+2023-07,  Central ,OFFICE,177857.14,0.142
+2023-07,Central,Pet,124637.76,0.204
+2023-07,International,Electronics,30006.67,0.252
+2023-07,International,Home,53094.04,0.156
+2023-07,  International,fashion,155758.19,0.151
+2023-07,International   ,Sports    ,169281.74,0.124
+ 2023-07, International,	Beauty,USD 133080.53,0.307
+2023-07,International   ,grocery,"203,396.48",0.184
+2023-07, INTERNATIONAL,Office,$149437.17, 0.15 
+missing,International,Pet  ,50643.27 , 0.287 
+2023-08  ,North   ,Electronics,-, 0.115 
+	  2023-08,North  , Home  ,"200,427.46",0.156
+2023-08,NORTH,Fashion,118752.8,29.9%
+2023-08,  NORTH ,Sports,225825.41,?
+2023-08,  North,  Beauty,96545.96,0.28
+2023-08,  North,GROCERY,65608.0,0.237
+2023-08,North ,office,"103,535.16",25%
+2023-08,North  ,Pet,158804.74,15.6%
+  2023-08,  SOUTH,  electronics,138714.57,0.231
+  2023-08,south,  Home,140058.69,0.27
+2023-08,south,fashion,154259.83,32.9%
+  2023-08,South    ,	 SPORTS,61062.87,0.209
+2023-08,  SOUTH,BeAuTy, 124239.98,0.2
+  2023-08,South,Grocery,84297.47,0.304
+  2023-08   , SoUtH,Office,$168248.61,0.281
+2023-08,  South,PeT   ,163032.24,0.174
+2023-08,East, Electronics,114555.97, 0.291 
+2023-08,EAST   ,Home,185490.2, 0.334 
+2023-08,East ,Fashion,49652.46 ,27.7%
+2023-08,  East,sports,217795.15,0.194
+2023-08  ,East,BEAUTY,166065.84 , 0.311 
+2023-08,East,grocery,239323.22,12.9%
+  2023-08,East,Office,174195.21,13.6%
+2023-08,EaSt  ,  Pet,99518.62,0.191
+2023-08, West ,ELECTRONICS,46351.45,--
+  2023-08,West,HOME,107803.03,0.137
+ 2023-08,  west   ,  FASHION   ,150158.81,0.197
+2023-08, WEST,    Sports,"245,348.88",0.149
+2023-08,West,Beauty ,$217698.16,0.083
+ 2023-08 , West,grocery,USD 31975.94,0.241
+ 2023-08  ,West,Office, 82129.99,11%
+2023-08   ,West,    Pet      ,219414.51, 0.145 
+ 2023-08,CENTRAL,  Electronics,247061.29,0.329
+2023-08  ,CENTRAL,Home,127075.52,0.122
+2023-08 ,central,Fashion,80485.58,0.133
+2023-08, Central,Sports,$108156.66,0.092
+2023-08,CENTRAL,Beauty,67102.46,0.299
+2023-08,Central,Grocery,188448.49,0.239
+2023-08, Central,?,43819.69,0.253
+ 2023-08,Central,pet, 54884.13,0.327
+2023-08  , INTERNATIONAL,ELECTRONICS,173622.91, 0.289 
+2023-08   ,International  ,home,218023.27,0.232
+    2023-08, international,Fashion,USD 122550.37,0.131
+2023-08,INTERNATIONAL, SpOrTs,54430.82,0.083
+2023-08,	International,Beauty,"239,632.82", 0.174 
+2023-08   ,International  ,  Grocery,154353.29, 0.118 
+2023-08,INTERNATIONAL,Office,93648.66,0.147
+2023-08 ,International,Pet   ,52139.67, 0.323 
+2023-09, north,ElEcTrOnIcS,100008.82,0.124
+  2023-09      ,North  ,	home ,121505.72,0.26
+2023-09,n/a,Fashion  , 168618.20,  
+2023-09  , North  ,SpOrTs,193237.74, 0.172 
+ 2023-09,NORTH,beauty,215183.88,0.101
+2023-09,North, Grocery  ,212359.68,0.128
+ 2023-09   ,North,  OFFICE,67797.41,0.213
+2023-09,North ,Pet,68872.3,0.11
+2023-09 ,South,  Electronics,None,31.1%
+2023-09,  South ,Home,199919.61 ,0.311
+2023-09,  south ,Fashion   ,55431.08,31.7%
+  2023-09,South   , Sports,181434.97,19%
+ 2023-09,South,Beauty,246466.21,13.5%
+ 2023-09,  South  ,GrOcErY,194046.65 ,12.5%
+2023-09, South,OFFICE,198900.09,0.206
+2023-09  ,	    south,Pet  ,84108.91,26%
+2023-09,East ,Electronics ,USD 89388.18,31%
+2023-09,EAST,Home   ,108594.86,0.316
+2023-09 , East,FASHION,76827.03,0.242
+ 2023-09,    East,Sports,85350.46,0.099
+2023-09,East  ,Beauty,USD 197312.11,0.192
+2023-09,EAST, grocery,156138.73 ,0.098
+  2023-09,  east  ,  Office,221756.57,0.334
+  2023-09,East,  Pet,99808.34, 0.146 
+2023-09, West,ELECTRONICS,"63,957.16",0.287
+2023-09,	West ,    Home,244629.14,20%
+2023-09,  West,Fashion  ,58330.00 ,0.087
+2023-09   ,West ,sports,100886.22,0.163
+2023-09,West  ,Beauty,45931.81,0.29
+2023-09,West,Grocery  ,, 0.262 
+2023-09,  WEST,OfFiCe,36238.97,0.094
+ 2023-09   , West  , Pet,64910.34,0.155
+2023-09,	Central   ,  Electronics   ,202145.39,16%
+2023-09,CENTRAL,Home,"63,795.23",0.179
+2023-09,  Central,fashion,47732.66,30%
+ 2023-09  ,central,Sports,"118,386.28",0.158
+2023-09,Central,Beauty,146444.08,0.261
+2023-09,Central, Grocery,31870.68,30.6%
+2023-09,CENTRAL,OfFiCe,101204.06 , 0.341 
+2023-09,CENTRAL   ,  PET,USD 56586.28, 0.255 
+2023-09,INTERNATIONAL,Electronics, 77628.25,0.15
+  2023-09,International, home  ,$228641.87,0.274
+  2023-09,International,FASHION  , 94254.77,24.1%
+ 2023-09,International,Sports,85825.88,0.228
+2023-09,INTERNATIONAL,BEAUTY,USD 100338.34, 0.308 
+2023-09,    International    ,Grocery,146313.01 ,0.097
+	 2023-09,International,	Office,180407.56, 0.295 
+2023-09,INTERNATIONAL   ,pet,223539.06,0.333
+2023-10,north   , Electronics,65459.21,0.132
+2023-10,North,Home,151533.79,28%
+2023-10,North,Fashion,53096.43,0.124
+2023-10,None, Sports,215703.02,0.253
+2023-10,North  ,  BEAUTY,USD 144245.81,0.192
+2023-10,North,None,74706.32,0.192
+2023-10      ,North,office,164946.45,0.278
+2023-10,north,pet, 73752.11,26%
+ 2023-10,    South      ,Electronics, 167946.26,0.309
+  2023-10,SOUTH,Home,missing,19%
+2023-10 , South,FASHION  ,-140277.64, 0.266 
+2023-10,  South  ,sports,"190,882.92",0.117
+2023-10,  South, BEAUTY , -196681.87,21%
+2023-10,South,GROCERY, 122768.74,zero
+2023-10, South,  Office,"90,942.58",0.256
+2023-10  ,South,Pet,243806.66,0.322
+2023-10,EAST,  Electronics,34548.37,0.329
+2023-10,  EaSt,Home,153861.03,0.212
+ 2023-10,  East  ,Fashion,240316.22,0.29
+ 2023-10,east, Sports ,171764.19,0.189
+2023-10  ,east  ,BeAuTy ,"237,293.91",11.3%
+2023-10, East  , GROCERY,208515.85,30.2%
+2023-10, EAST, OFFICE,132259.6,0.256
+  2023-10,East,	Pet,NA,0.224
+2023-10,West,Electronics,$104366.73,0.25
+2023-10,West,Home,42074.66,0.278
+2023-10   ,West,fashion,191308.53,0.226
+ , West,Sports, 207297.55,0.137
+,  WEST,Beauty,230075.75, 0.102 
+2023-10,null,grocery,167384.49,0.272
+  2023-10, West   ,Office  ,234162.84,0.105
+2023-10  ,west,pet   ,142968.14,0.084
+2023-10,Central,ELECTRONICS,137393.65,0.232
+2023-10   ,Central,home,233404.01,0.211
+ 2023-10 ,  Central,fashion   ,41835.86,0.302
+    2023-10,Central,Sports,129707.77 ,0.108
+2023-10,central,Beauty ,$235509.27,0.141
+2023-10,  central,Grocery,121739.81,0.177
+    2023-10,Central   ,office,USD 95821.76,0.104
+2023-10   , Central ,Pet,174774.05,0.132
+2023-10,international,ElEcTrOnIcS,68612.61,21%
+2023-10   ,International   ,Home,215908.75,0.285
+2023-10,International,FASHION,73700.25,0.296
+2023-10,  International,Sports   ,"69,585.71",16%
+2023-10,INTERNATIONAL ,BEAUTY   ,244503.44, 0.291 
+2023-10,  International,Grocery,NA,0.153
+2023-10,  international   ,Office,$179827.79,10%
+  2023-10,International      , pet,"92,484.76", 0.299 
+2023-11,North  ,Electronics,USD 67819.14,0.18
+  2023-11,  north, Home,193471.38,0.219
+2023-11,North, FASHION,152963.65,0.128
+2023-11   ,North,SPORTS,219429.19,0.191
+  2023-11,north,BEAUTY,68148.95,n/a
+2023-11,  north   ,Grocery,32186.68,0.082
+2023-11,  North,OFFICE,71238.66,0.311
+2023-11,  North,Pet,"61,768.17",0.35
+  2023-11 ,south,Electronics,47044.55,0.177
+2023-11  ,SOUTH,  Home  ,USD 139816.70,0.162
+2023-11   ,South,Fashion,81744.92,11.6%
+ 2023-11  ,South,Sports,168949.51,0.345
+2023-11   ,South,BEAUTY   ,166467.53,0.323
+2023-11,south,grocery,165065.00,0.272
+    2023-11      ,SoUtH,  OfFiCe  ,96466.04,0.148
+2023-11,SoUtH,Pet ,147536.25,33.0%
+2023-11  ,EAST,ElEcTrOnIcS,USD 33706.25, 0.102 
+ 2023-11,EAST ,Home,232876.56 ,15%
+2023-11 ,East,FASHION  ,177623.78, 0.294 
+2023-11,  East,Sports,173301.39,0.224
+2023-11 ,East,beauty ,38208.15,0.258
+2023-11   ,East,grocery  ,73809.92,0.143
+  2023-11,N/A,Office,51179.79,zero
+2023-11    ,EAST,Pet ,150904.55,0.247
+2023-11  ,West,Electronics,"65,437.22",0.302
+  2023-11 ,West ,HOME,52548.94,0.206
+2023-11,WEST,Fashion,USD 162831.80,None
+2023-11  , West   ,	 SPORTS,$231496.11,26.3%
+2023-11 ,  West , , 219329.55,0.123
+2023-11,  West   ,GROCERY,$104983.26,0.084
+ 2023-11,West   ,	Office ,"128,658.92",0.3
+2023-11,West  ,  Pet  ,227938.7,0.319
+2023-11,central,Electronics,169178.55, 
+2023-11,Central,Home,200640.54,35%
+2023-11      ,Central,Fashion,--,0.17
+2023-11   , Central,  Sports,105278.89, 0.303 
+2023-11,Central   ,Beauty,123561.34, 0.221 
+2023-11,CENTRAL,Grocery  ,USD 201917.93,14%
+2023-11,Central, Office,248553.26,24%
+2023-11,Central, Pet,$115113.31,0.338
+2023-11,	 international,,214158.07,0.089
+2023-11  ,International  ,  Home   ,USD 167536.67,0.293
+2023-11,International,Fashion,67829.85,0.167
+  2023-11,International,Sports,$149063.31, 0.296 
+ 2023-11, INTERNATIONAL,Beauty,236080.04 ,0.096
+2023-11,International ,GROCERY,USD 70593.57,22.7%
+ 2023-11  , international, OfFiCe, 85148.79,0.238
+  2023-11,International,Pet   ,224772.52, 0.099 
+	2023-12,North ,  Electronics,USD 182789.74,31%
+  2023-12, North,Home,88498.00 ,22.0%
+2023-12,North,Fashion,229318.91, 0.282 
+2023-12,north,  Sports,113217.97,0.134
+2023-12,north ,Beauty,71811.97,0.187
+2023-12,NORTH,  Grocery,206550.13,0.115
+2023-12,North,Office, 188339.17,0.336
+  2023-12 ,NA,  Pet   ,  ,20.0%
+2023-12, SOUTH,  Electronics,USD 236676.62,0.155
+2023-12,South,home  ,n/a,0.228
+2023-12 ,South,FASHION   ,131655.45,0.277
+2023-12   ,South, sports,59115.09,21.5%
+2023-12   ,South,beauty ,120826.8,0.348
+2023-12,South, Grocery   ,71992.07,32%
+  2023-12 ,South  ,Office, 202565.62,19.2%
+2023-12,  South,Pet   ,211898.53,0.257
+2023-12,East,ELECTRONICS,$114673.85,0.1
+2023-12,EAST,Home,218727.0, 0.274 
+2023-12,East,Fashion ,155608.19,0.238
+2023-12  ,East,sports    ,170201.19,0.221
+2023-12,east ,Beauty,105810.81,0.288
+2023-12,EAST, Grocery,58806.6,0.25
+2023-12,EAST,Office,45301.84 ,16%
+ 2023-12,East,Pet,USD 171944.30,0.177
+2023-12  ,	west,Electronics ,93606.33,0.216
+2023-12,west,  HOME,162936.81,0.147
+  2023-12,  West,  fashion,"154,196.48",0.269
+2023-12   ,  WEST, Sports,55098.23,0.081
+ 2023-12  ,	West,Beauty,USD 231907.85,0.314
+,West,Grocery   ,138274.64,0.13
+2023-12,WEST,OfFiCe  ,164937.55 ,0.164
+?,West,Pet, 125189.54,16%
+2023-12,  central,Electronics ,152132.84,0.203
+2023-12,Central, Home,171786.37, 0.282 
+  2023-12 ,  central,  Fashion  ,169559.71 ,0.196
+2023-12   ,Central  ,sports,"98,030.73",0.176
+  2023-12  ,central,Beauty,135936.99, 0.207 
+2023-12, Central,	Grocery,USD 35414.17, 0.253 
+2023-12,Central,Office,null,0.227
+2023-12,CeNtRaL,Pet,171579.07,15.5%
+ 2023-12   ,	International,electronics,USD 191492.73,0.338
+2023-12, International,Home ,"178,706.68",0.115
+2023-12,INTERNATIONAL,  FASHION   ,"100,104.95",0.086
+2023-12,International    ,Sports   ,233041.88,24.3%
+2023-12,INTERNATIONAL  ,Beauty ,-171076.9,0.217
+2023-12,INTERNATIONAL,GrOcErY,"69,353.97",20.9%
+2023-12 ,International,Office,$192242.32,0.304
+2023-12,International,	pet,N/A,0.252
+2024-01,NoRtH ,Electronics,248383.11,0.256
+2024-01,unknown,Home ,73137.84,0.293
+2024-01   ,North,fashion,USD 200708.67,17.8%
+  2024-01,North,SpOrTs ,190894.61,28%
+2024-01,North,Beauty  ,136730.23 ,-
+2024-01,North,Grocery,NA,0.123
+2024-01,    north  ,office,"199,792.38",0.217
+  2024-01, north,PET,$-57233.67,0.346
+  2024-01,South,ELECTRONICS  , 37764.83,0.146
+2024-01,SoUtH, Home  ,182419.23,0.324
+  ,  South,fashion   ,119624.13,0.208
+2024-01,South ,Sports ,149901.9,0.231
+2024-01,South,  beauty ,217887.94,0.137
+2024-01,SOUTH,missing,68721.82,0.207
+ 2024-01,  South,  Office,44779.31,30%
+2024-01,South, Pet ,183229.4,0.182
+ 2024-01, East,electronics, 148570.41,8.1%
+2024-01 ,  East  ,Home,54615.27,0.299
+  2024-01  ,East, Fashion,158497.7,0.248
+2024-01,EAST,Sports,64100.91 ,15.0%
+2024-01,east ,Beauty,$170689.90,0.32
+    2024-01,East,Grocery,53371.96 ,24.3%
+2024-01,East,	Office,$30552.05, 0.3 
+ 2024-01   ,EAST,	Pet   ,207163.9,31.0%
+2024-01,  West,  Electronics, 124738.15,0.165
+  2024-01, West,Home, ,0.332
+2024-01   ,  West,FASHION  ,113291.9,0.267
+ 2024-01  ,  West,sports,165293.12,13%
+2024-01,WEST, Beauty,238642.52 ,23%
+2024-01,WEST   ,Grocery  ,103253.48,30.6%
+2024-01,West ,OFFICE,232891.87, 0.297 
+2024-01,West,  pet,57889.25,0.301
+  2024-01,  CeNtRaL,Electronics,154933.01, 0.086 
+    2024-01,Central,Home ,162760.36 ,0.217
+2024-01,CENTRAL   ,Fashion,169370.78,0.33
+2024-01, Central,Sports,171942.82, 0.191 
+    2024-01,Central,BEAUTY, 118958.33,0.164
+2024-01,CeNtRaL,	Grocery,189576.47,0.321
+2024-01,central,  Office ,74996.12,-
+  2024-01   ,Central,PET,205352.39,0.256
+2024-01 ,INTERNATIONAL,Electronics,$72174.93,0.24
+  2024-01,International ,Home,"79,508.81",0.294
+  2024-01,international,Fashion,"77,412.91",0.318
+ 2024-01,International,Sports,"33,978.91",0.164
+2024-01  , International, beauty,68473.52,15%
+2024-01   ,	international   ,GrOcErY,206908.15,0.321
+2024-01  ,InTeRnAtIoNaL,OFFICE,78430.91,0.12
+None, International,Pet ,43152.04,zero
+2024-02,north,electronics,34599.25,0.254
+2024-02,  north,home,201081.18,29.5%
+	2024-02,NORTH,Fashion,79657.24,0.133
+ 2024-02 ,NoRtH   ,sports   ,96247.52,0.216
+2024-02 , North,beauty ,108059.47 ,0.259
+  2024-02,  NORTH,Grocery,96862.8, 0.086 
+2024-02   ,    north,Office   ,129009.76 , 0.143 
+2024-02,North,Pet,231481.52,0.097
+2024-02, South,electronics,190610.49,22.6%
+2024-02  ,  south, Home  ,45182.63,0.249
+2024-02,SOUTH,Fashion ,79873.90, 0.159 
+2024-02,South ,  Sports,182572.31,--
+2024-02, South   ,Beauty,NA, 0.244 
+2024-02,  South,grocery, 171991.46,0.192
+2024-02,South,  office   ,62441.71,18.7%
+2024-02,South,Pet,120130.96,0.159
+2024-02,EaSt,Electronics ,53821.44,0.227
+2024-02,  East,Home ,166033.95, 0.114 
+  2024-02,East , Fashion,$71148.32,zero
+  2024-02,East,  sports,"119,160.79",24.7%
+  2024-02  ,East,Beauty ,201942.34,0.199
+2024-02  , EaSt,Grocery,"74,417.56",0.264
+2024-02,East   ,Office ,228871.24,0.14
+2024-02,East,PET,68581.85,0.263
+ 2024-02,west,electronics,"172,900.84",missing
+2024-02,West,Home,104305.46,?
+	2024-02 ,West ,	 Fashion,"149,620.12",14.8%
+  2024-02   , West   ,  Sports,170648.54 ,17.3%
+ 2024-02,West   ,BEAUTY,"101,564.97",29.0%
+  2024-02 ,West,Grocery,206543.97,0.296
+  2024-02,west  ,	Office,$180145.98,0.214
+2024-02,west,pet  ,248546.32,0.205
+2024-02,  ,Electronics,n/a,0.268
+  2024-02,Central,HOME  ,USD 110438.84,0.16
+  2024-02,central,Fashion,USD 240466.64,0.106
+NA,Central  ,SpOrTs, 123586.83,0.132
+2024-02, CENTRAL   ,Beauty,239267.0,19.5%
+2024-02,Central, Grocery,197046.95,0.279
+2024-02,Central,Office,118589.94,10.0%
+  2024-02  ,CeNtRaL,Pet,125809.79,0.302
+2024-02 ,  International ,Electronics      ,zero,0.116
+2024-02 ,International   , home,USD 101901.30,0.127
+2024-02,International,Fashion,236173.41,0.238
+2024-02   ,international,SPORTS  ,168464.28,0.113
+2024-02,    international, beauty,57227.5, 0.118 
+ 2024-02,International,Grocery,234030.0,0.101
+2024-02,International   ,  Office,224867.64,0.162
+2024-02,International,Pet,226068.3,0.336
+  2024-03, North, Electronics,USD 122790.97, 0.283 
+2024-03,North,HOME,108505.64,0.202
+  2024-03  ,  NORTH  , Fashion,246885.85,16.6%
+  2024-03,north  ,Sports,220685.0,0.133
+	2024-03,North,Beauty,USD 96477.27,0.098
+2024-03,north,  Grocery, 62360.02,0.084
+2024-03,,Office,"228,349.90",0.272
+2024-03,North,Pet  ,125255.09,0.256
+2024-03,  SOUTH,Electronics ,38817.01,26.8%
+2024-03  ,  south,home,228787.53,0.268
+2024-03  ,South ,fashion ,204808.19, 0.158 
+2024-03   ,South,sports,236723.25,0.326
+ 2024-03,South      ,Beauty,missing,24%
+2024-03,South,Grocery,42249.43 ,23.6%
+2024-03,South   ,Office  ,222832.48,0.235
+ 2024-03,South,Pet  ,"108,695.59",N/A
+2024-03,East,ELECTRONICS,98306.62,20.0%
+2024-03   ,east, Home,"204,736.84",0.273
+2024-03 ,East,Fashion,161458.94,0.283
+2024-03 , East,  Sports ,152279.07,18.5%
+2024-03,EaSt,Beauty,78059.05 ,0.301
+2024-03,EAST,NULL, 99325.13,0.261
+2024-03  ,East,  OFFICE   ,133720.51,0.319
+2024-03, East, PET ,71248.01,0.123
+2024-03,West,Electronics ,"203,316.54",0.345
+	 2024-03 ,	West,Home,210777.23 ,0.198
+ 2024-03,west,Fashion,121355.59, 0.225 
+2024-03,West,Sports,$166254.31,0.153
+ 2024-03   ,West,    Beauty,232656.6,23%
+ ,  West,grocery      , 127810.61,0.117
+NULL,  WEST,Office,122596.62,0.172
+ 2024-03,West,Pet,"32,711.33",0.101
+2024-03, Central,electronics ,"198,508.71",0.297
+	2024-03,Central  ,    home,101544.7,0.176
+  2024-03,  CeNtRaL,Fashion,162707.68,0.334
+2024-03,Central  ,Sports,"148,407.92",20.2%
+  2024-03,CENTRAL, beauty,48861.55, 0.286 
+2024-03,Central,Grocery  , 179538.33,0.236
+2024-03, Central,OFFICE,105606.47,0.235
+2024-03  ,central,  PET,162335.59 ,0.3
+  2024-03,International,Electronics,--,0.127
+ 2024-03,International ,HOME,194835.30 ,0.313
+  2024-03,International,Fashion,"68,179.66",0.133
+2024-03,  INTERNATIONAL,Sports,127444.29,24.1%
+2024-03, INTERNATIONAL,Beauty ,178097.07,30.5%
+  2024-03,  International  , Grocery,120845.74,0.232
+	  2024-03,International,Office,134369.6,unknown
+2024-03, international, Pet,"239,894.41",0.209
+2024-04,  NoRtH ,Electronics,$189926.17,0.11
+2024-04,	north,Home,$207834.22,22%
+2024-04,  North,FASHION  ,166243.97, 0.307 
+2024-04,  North,Sports,176527.87,0.248
+2024-04, North,Beauty  , 130684.40,0.258
+ 2024-04, North,Grocery,109952.22 ,0.117
+2024-04,NORTH ,OFFICE,"197,529.52", 0.126 
+2024-04   , North,Pet   ,"149,726.97",0.178
+2024-04,  South, ELECTRONICS,216617.44,18%
+  2024-04  ,South, home,74682.43,30%
+2024-04  ,SOUTH,FASHION,"96,682.74",0.286
+  2024-04   ,SoUtH,Sports,126724.31,27%
+2024-04,SOUTH ,Beauty,56117.73,0.258
+2024-04 ,South      ,  Grocery,99303.54,31.0%
+2024-04,  South,	 Office, 53911.46,0.301
+2024-04,  South,Pet,249578.28,0.305
+2024-04,EAST,  Electronics,-,0.179
+2024-04,East   , Home,222356.6,NULL
+2024-04  ,east      ,fashion,210065.77,33%
+2024-04,	  east,Sports,57818.7,0.213
+N/A, East,Beauty,239097.81,21%
+2024-04,  East,  grocery,USD 179451.91,NULL
+2024-04, East,Office   ,"197,510.33",0.096
+  2024-04,East,PET   ,51372.95,0.222
+  2024-04,WEST,Electronics,USD 176966.28,0.13
+2024-04,  West,Home,"197,754.03",0.091
+2024-04,WEST,FASHION,236743.07 ,0.116
+2024-04,West,Sports, 239051.59,0.289
+ 2024-04   ,WEST,  beauty,69067.48,15.7%
+  2024-04,West ,Grocery,190490.06,0.221
+2024-04   ,West,Office,USD 155698.24,0.104
+2024-04,WeSt, PET,None,0.335
+2024-04 ,Central,electronics,$232409.48,0.319
+2024-04,Central,Home ,n/a,0.097
+  2024-04  ,Central      ,FaShIoN,USD 72501.23,18.3%
+2024-04,CENTRAL,SPORTS ,171347.88, 0.275 
+2024-04,Central, BEAUTY,108967.13,0.225
+2024-04, Central ,Grocery,96710.13,0.236
+2024-04,  CeNtRaL,Office,112284.56,0.095
+2024-04,Central,pet,211319.46 ,34%
+ 2024-04  ,International,ELECTRONICS   ,216185.27,0.31
+  2024-04,INTERNATIONAL,Home,189982.38 , 0.169 
+ 2024-04,  International  ,	  fashion,35572.26, 0.201 
+null,INTERNATIONAL  ,	Sports,229215.45,27.3%
+ 2024-04,INTERNATIONAL,  Beauty,84819.27, 0.348 
+  2024-04,INTERNATIONAL,  GROCERY,140783.29,29%
+ 2024-04  ,International,Office,235444.83,0.145
+2024-04,International, PET,216789.21, 0.191 
+ 2024-05,North,  Electronics,"122,047.28",0.101
+2024-05,  North   ,Home   ,-,0.307
+2024-05,North,	fashion   ,$215521.14,27.8%
+  2024-05,NoRtH  ,SPORTS ,215379.30,30.0%
+2024-05,North  ,  Beauty,"188,271.47",0.105
+2024-05,North,grocery  ,222644.43,0.253
+2024-05,North,OFFICE,38930.88,0.206
+2024-05  , NORTH,PET,218762.06,11.5%
+2024-05,  South,Electronics,147384.23 ,0.161
+2024-05,South,HOME,$248918.18,0.215
+2024-05,South,Fashion  ,"227,868.83",22%
+2024-05 ,South,Sports,113846.55 ,0.128
+2024-05  ,South,Beauty,USD 221007.03,0.082
+ 2024-05,South,Grocery  ,$241191.69,0.086
+2024-05,South, office  , 205860.17,n/a
+ 2024-05, South, pet  ,242505.70,0.258
+2024-05,East,Electronics,181447.43,0.216
+2024-05  ,East,HOME,225136.11,27.9%
+2024-05,EAST,  Fashion,128502.65,18.6%
+2024-05 ,East,Sports ,229995.64,0.086
+  2024-05,East   , beauty,225523.78, 0.094 
+ 2024-05,  EAST   ,grocery   ,193872.76,0.203
+2024-05,EAST,Office,56042.43,16.2%
+2024-05,east,Pet   ,248813.25,NULL
+2024-05 , West  ,electronics, 117360.27,27.8%
+2024-05,West, Home,203034.61,24%
+2024-05,West  ,Fashion,241478.91,0.331
+NA,West,SPORTS,73602.27,0.138
+2024-05,West,beauty,"170,695.65",0.302
+2024-05,WEST,  Grocery,$130244.52,0.28
+2024-05, west,missing,"240,774.73",0.313
+  2024-05, West, Pet,USD 163762.23,0.311
+2024-05,Central,Electronics ,158995.01,0.095
+2024-05   ,  CeNtRaL,?,140986.41,18%
+2024-05      ,Central, Fashion,246917.61,25%
+  2024-05  , Central,Sports   ,238955.54,26.6%
+2024-05,Central,BEAUTY   ,46760.07, 0.086 
+ 2024-05,Central,Grocery,155409.12,0.183
+2024-05,Central,OfFiCe  ,77607.23,0.127
+2024-05,  central   ,Pet,42032.49,23.1%
+2024-05,International,  Electronics  ,$40817.75,0.26
+2024-05,International,Home,51630.71,0.088
+2024-05   ,International,  FASHION,182081.73, 0.114 
+2024-05,  INTERNATIONAL,Sports ,177812.1, 0.346 
+ 2024-05,International   ,BEAUTY,241705.04,0.295
+2024-05, INTERNATIONAL, GROCERY  ,80017.51,0.189
+2024-05,International,Office,$234883.33,0.34
+ 2024-05   ,International   ,PET,211230.08,0.263
+2024-06, North,    Electronics,"82,808.07",0.201
+  2024-06,north,Home    ,37736.33,0.101
+ 2024-06,north,Fashion,89540.05 ,0.184
+ 2024-06,NORTH,  sports,188676.62,0.204
+	2024-06 ,north,  beauty ,195298.32, 0.274 
+2024-06,NORTH ,GROCERY,134629.43,0.325
+2024-06, North,Office,42395.85,0.256
+	2024-06,north,Pet,144242.89,0.109
+2024-06,South,Electronics,48184.78,ten
+2024-06,South,  Home ,114420.21,26%
+2024-06,SoUtH,fashion  ,243097.47, 0.273 
+2024-06   ,South ,Sports, 135618.59,0.154
+2024-06,  South,Beauty,120261.75, 0.103 
+2024-06  ,SOUTH,Grocery   ,121851.55, 0.253 
+  2024-06,South,office, 140429.23,0.238
+2024-06   ,South,Pet ,241797.28,19%
+  2024-06,east   ,Electronics,$56678.31,31.8%
+2024-06,east,Home  ,NA,22.6%
+ 2024-06,EAST   ,Fashion ,102005.23, 0.258 
+    2024-06      ,East,Sports,"69,146.03",23%
+2024-06,east,Beauty,n/a,0.262
+2024-06,East   ,Grocery,USD 105321.51,0.327
+ 2024-06  ,east,  Office,143657.92 ,0.346
+2024-06, EaSt,pet,173978.26 ,28%
+2024-06 ,West,ELECTRONICS,$141578.50,29%
+2024-06   ,West,Home,$215070.64,0.326
+2024-06 ,West ,  fashion ,137253.43, 0.318 
+  2024-06,n/a, Sports ,189264.72,0.097
+ 2024-06,West,beauty,46794.55,0.26
+2024-06,West,Grocery,203280.44,0.312
+ 2024-06  , West,	  office,142743.06,17%
+2024-06,West,Pet   ,210804.96,29.4%
+2024-06   , Central,Electronics,174555.03,0.097
+2024-06 ,  CENTRAL,HoMe,205777.23,30%
+2024-06, Central,Fashion,$107571.62,0.245
+  2024-06  , Central,Sports,198273.43,0.208
+2024-06  ,central,Beauty,244412.54 ,0.329
+ 2024-06,Central,Grocery, 195242.67,18%
+  2024-06,CeNtRaL,Office,235971.45, 0.348 
+2024-06,  central,PET, 179049.73,0.272
+  2024-06  ,International,Electronics, 149660.50,null
+2024-06,International,  Home  ,207810.49,
+  2024-06 ,INTERNATIONAL,Fashion ,"234,503.35",0.15
+ 2024-06   ,  International,  Sports ,127518.11,0.211
+  2024-06  ,international , beauty,232261.26,0.277
+2024-06   ,International  ,GrOcErY,170094.43,0.215
+2024-06,International,Office, 205762.05, 0.094 
+2024-06,International  , Pet,USD 205016.60, 0.198 
+ 2024-07,North,Electronics, 76885.65, 0.174 
+ 2024-07  ,North,  Home,$117702.11,0.162
+2024-07 , north,FASHION,152540.00,0.18
+2024-07,NORTH,  sports,$58515.43,31%
+ 2024-07,North,BEAUTY,65945.03,0.157
+2024-07 ,North,	Grocery,222157.68,0.253
+2024-07,    North,Office   ,198817.97,0.23
+2024-07  ,North,Pet,139201.26,20.2%
+2024-07,South,electronics,null,NA
+2024-07,South,Home,200442.92,28%
+2024-07,South,Fashion,"68,663.86",NULL
+2024-07,    SOUTH,Sports,USD 244354.94,0.089
+2024-07 ,South,  beauty   ,51606.8,0.13
+  2024-07,	South,GROCERY,107083.46,0.168
+2024-07, South, ,78516.93,29.2%
+ 2024-07,SoUtH,  pet,USD 101920.68,0.148
+2024-07 ,EaSt ,Electronics  ,203590.8,0.186
+2024-07  ,East,Home,142654.14,0.156
+2024-07,East,fashion,-,11.3%
+2024-07,East,Sports,112442.33,32.6%
+2024-07,EAST,BeAuTy,99510.17, 0.156 
+ 2024-07   ,EAST  ,Grocery,$236112.56,0.14
+NULL,east,office,221462.44,0.163
+2024-07   ,East,Pet ,$58721.20,27.0%
+ 2024-07  ,West,Electronics  ,59941.05,0.095
+	2024-07   ,west,Home,93117.30 ,0.084
+	2024-07,West,Fashion   ,unknown,0.191
+2024-07,  WEST,  Sports,$108363.33,0.328
+2024-07,WEST,Beauty  ,88218.21,0.322
+2024-07 , West,Grocery , 199480.01,0.302
+2024-07,West,Office,199544.49,0.087
+  2024-07,West , Pet,229055.85, 
+ 2024-07,  ,  Electronics,113201.58 ,20%
+ 2024-07,Central, Home,158163.77,0.276
+2024-07,Central,fashion,73914.98,0.126
+2024-07,CENTRAL   ,  Sports,218761.17,0.14
+	2024-07,  central,  Beauty,?,0.306
+2024-07,Central ,GROCERY  ,$219411.20,0.276
+2024-07 ,CeNtRaL  , Office,225331.79,29.1%
+2024-07,Central,Pet, 51140.92,15.3%
+2024-07,INTERNATIONAL,Electronics,42446.11 ,0.229
+  2024-07,	INTERNATIONAL,Home,128796.82 ,0.11
+ 2024-07,international, Fashion,32020.36,0.135
+2024-07,International   ,	  Sports,241158.80,0.284
+2024-07,International,BEAUTY  , 157105.39,28.5%
+2024-07, international   , Grocery,"34,874.16",0.082
+2024-07,international,  Office, 147178.28,0.101
+2024-07,International,Pet,50909.96,29%
+ 2024-08   ,North,	  Electronics,33046.36,0.229
+2024-08,north, Home,136929.9,34.9%
+2024-08  , North,Fashion,null, 0.275 
+2024-08,North,Sports ,108629.95,0.214
+2024-08  ,North, Beauty, 149566.05,17.8%
+2024-08,NoRtH,Grocery,185025.63,30%
+2024-08,North   ,  OFFICE,201744.9,0.207
+2024-08   ,North,Pet,USD 212444.69,NULL
+2024-08 ,South,  ELECTRONICS,233432.24, 0.148 
+2024-08, South,Home,-,0.17
+2024-08,SOUTH,Fashion ,69934.68,0.333
+ 2024-08,  south,	 sports,244428.35,0.283
+  2024-08,South  ,Beauty,USD 204622.06,32%
+2024-08,  South   ,Grocery ,"128,653.40",0.123
+2024-08 ,South,Office,-244279.23 ,0.329
+2024-08  ,SOUTH,PET,$88515.57,0.253
+  2024-08,East  ,  Electronics ,"78,713.89",0.262
+  2024-08   , East,Home,205109.82,
+2024-08,East, Fashion,222003.01,12%
+2024-08,East,sports,59597.03,0.289
+2024-08, EAST,Beauty   ,94258.24, 0.295 
+  2024-08, East,Grocery,87493.27,34%
+2024-08,	East,Office, 66716.95,0.125
+  2024-08,East, Pet,$177108.63,0.289
+2024-08   ,West   ,ELECTRONICS ,149793.50 ,0.337
+2024-08,  West, HoMe,53373.76,14.0%
+  2024-08   ,West,FASHION ,"68,361.07", 0.249 
+2024-08,west ,missing, 190081.13,0.116
+2024-08,  WEST,BEAUTY ,40270.31,0.267
+2024-08  ,west   ,grocery,$83689.68,0.118
+2024-08,WEST,office,96952.47,0.214
+2024-08,	WEST   ,Pet,89272.42,22.6%
+  2024-08,CENTRAL  , Electronics,132871.03,0.093
+2024-08,Central, Home  ,81706.06,0.342
+2024-08,  Central,FaShIoN,-, 0.235 
+	2024-08,Central   ,  Sports, 43325.29,0.189
+2024-08, Central ,BEAUTY  ,175601.52,0.293
+2024-08,central ,  Grocery   ,234116.45,0.332
+2024-08, Central   ,office ,217052.22,0.146
+2024-08, Central  ,Pet,73111.99, 0.194 
+2024-08,International ,Electronics,"154,631.79",15.5%
+2024-08,International,	Home ,154247.89 ,0.215
+2024-08  , InTeRnAtIoNaL ,FASHION,135987.66,0.101
+2024-08,International,Sports , 63413.68,0.087
+2024-08,International  ,  Beauty,150338.22,NULL
+2024-08,International,grocery  ,$247390.10,0.347
+2024-08   ,International  ,OFFICE, 139731.33,0.231
+2024-08,International,Pet,194175.55,0.204
+2024-09  ,North,ELECTRONICS,224508.96,0.287
+  2024-09  ,North  ,Home,153074.09,0.223
+2024-09,  North,Fashion,$81831.93,13.3%
+ 2024-09  ,NORTH,Sports,222235.85,32.3%
+2024-09,North,Beauty,$235607.56,0.247
+2024-09,North   ,Grocery,"170,789.64", 0.345 
+2024-09,North,Office,USD 105579.93,0.116
+2024-09,North, Pet,USD 32905.96,0.22
+2024-09,South, electronics,$121731.50,0.327
+2024-09   ,South,home ,"231,846.15", 0.102 
+2024-09,South,Fashion  ,172554.5,0.327
+2024-09   ,  South  ,  SPORTS,USD 179702.03,0.212
+2024-09   , South  ,beauty  ,147567.16,0.091
+2024-09  ,South,Grocery,107106.27,0.083
+2024-09,South,OFFICE,237088.55,34%
+2024-09,  south,Pet  ,92947.23,24%
+2024-09,  East,Electronics    ,99462.95,0.292
+2024-09, East,	  Home,84717.21,0.324
+ 2024-09,EaSt,Fashion,69255.05,0.101
+2024-09,East,sports,65030.85,0.142
+2024-09,East,Beauty,71254.07,0.145
+2024-09,East,  grocery,"120,728.10",23.0%
+ 2024-09,East,Office,105904.70 ,0.298
+  2024-09,east,Pet,149187.29 ,0.252
+ 2024-09,West   ,ElEcTrOnIcS  ,$243029.06,0.296
+2024-09,West,Home  ,227608.98,0.137
+2024-09,WeSt,Fashion,118518.66,0.312
+ 2024-09,NULL,Sports,30095.2,0.085
+ 2024-09,West   ,BEAUTY,249729.77,26%
+2024-09,WEST,GrOcErY,204750.8,0.224
+2024-09,West,office,,0.098
+  2024-09,  west,Pet,152063.26,0.195
+2024-09 ,Central,Electronics   ,83364.45,0.116
+2024-09, Central,HOME,199664.12,0.296
+2024-09,central,Fashion , 49178.83,0.243
+ 2024-09,Central  ,	 Sports,N/A, 0.244 
+ 2024-09,Central  ,Beauty, 140461.58,32%
+2024-09 ,  Central,Grocery , 115060.17,0.162
+2024-09,central,Office,148568.24,0.17
+ 2024-09 ,Central,PET  ,43839.6,22.7%
+2024-09   ,  InTeRnAtIoNaL,electronics,91472.21,0.289
+2024-09,NULL, HOME,"154,930.18",0.278
+2024-09 , international, Fashion,108400.58,29.0%
+  2024-09   ,  International,Sports,224519.82,0.322
+  2024-09,International, BEAUTY , 152574.13,0.121
+ 2024-09,  international,Grocery   ,122645.80 ,0.235
+2024-09,International  ,Office,230001.9,0.302
+2024-09,INTERNATIONAL,PeT,-217553.27,0.251
+2024-10,North  , Electronics ,"207,826.75",21%
+2024-10,North,HOME,USD 75766.12,0.234
+2024-10   , North,Fashion,236661.57,null
+2024-10    ,North,SPORTS , 111499.29,0.18
+	2024-10  ,north   ,Beauty,50887.93,15%
+2024-10,NORTH,Grocery,249211.3,0.323
+2024-10,NoRtH,Office,48534.29,0.288
+2024-10  ,North,PET,155843.66,0.118
+2024-10   ,South   ,ELECTRONICS ,70740.43,14.5%
+ 2024-10,South,Home,67078.34 ,0.204
+	2024-10,n/a,Fashion,59922.81, 0.096 
+	  2024-10,South,sports      ,-146852.22,26%
+2024-10  ,SoUtH   ,Beauty,103222.7, 0.322 
+2024-10,South   ,Grocery, 119290.73,0.341
+NA,South,office, 94464.16,30.5%
+2024-10,  South,Pet,192022.76,29.4%
+2024-10   ,EAST,Electronics,161401.35,0.152
+2024-10,  EAST,	Home,141883.60 , 0.292 
+2024-10   ,East,fashion  ,93213.55,0.338
+	  2024-10   ,?, Sports,"181,015.96",0.122
+2024-10   ,East,Beauty  ,$223049.59,0.114
+2024-10,EaSt,Grocery,$194846.34,9.5%
+2024-10,east  ,Office,$208395.24,0.177
+ 2024-10,east, pet,137515.65 , 0.265 
+2024-10,West,Electronics   ,130312.09,10%
+2024-10,West,	Home,111718.35,0.282
+  2024-10,west, FASHION,$144582.21,
+ 2024-10   ,West,Sports,113979.15,0.265
+2024-10 ,West,Beauty,$123916.41,31.4%
+2024-10,West   ,  grocery  ,57003.73,0.282
+2024-10, West,Office,"131,445.94",15%
+2024-10,West,pet,USD 177899.30,17.9%
+  ,CENTRAL,,237983.56, 0.294 
+2024-10,central , Home,70446.17,0.113
+2024-10  ,CENTRAL,Fashion,"193,753.81",0.167
+2024-10,CeNtRaL,  Sports,127986.21,23.9%
+2024-10 ,Central,Beauty,200273.96,0.08
+ 2024-10,central   ,  grocery  ,"149,904.58",missing
+2024-10,central,Office ,"167,007.27",0.186
+2024-10  ,  Central, Pet   ,199225.15,0.278
+2024-10,INTERNATIONAL,Electronics,181304.5,0.337
+2024-10,  INTERNATIONAL,home,"222,608.23",0.291
+ 2024-10,International,Fashion,196266.43,null
+2024-10,International,Sports,140881.73,0.198
+2024-10, International   ,BEAUTY,63748.77,15%
+2024-10,International,Grocery,65519.23, 0.211 
+2024-10,INTERNATIONAL,office ,246267.03 ,0.127
+2024-10,international,PET,$106017.38,0.125
+  2024-11 , NORTH,Electronics  ,"104,086.55",0.1
+2024-11,	NoRtH,Home ,179955.84,0.231
+2024-11,	NORTH,Fashion,None,0.128
+  2024-11  ,North,Sports,179265.28,33%
+2024-11,  North   ,Beauty,203027.2,14.3%
+  2024-11,NoRtH,grocery,141003.23, 0.144 
+2024-11,NORTH,Office,31957.82,34%
+2024-11,  North, PET,USD 100685.17,0.327
+  2024-11 ,SOUTH ,Electronics,129182.05,0.308
+ 2024-11,south,  Home,72263.05,33%
+  2024-11,South,Fashion   ,157595.92,0.105
+2024-11 ,South,sports,141144.3,0.086
+2024-11,South,Beauty, 64439.54,unknown
+2024-11  ,South,Grocery, 201719.19,0.272
+  2024-11,  South,office,USD 175683.96,0.165
+2024-11  ,	 SOUTH,PET,"102,943.51",0.175
+2024-11 ,East   ,	Electronics   ,77318.5,32%
+ , EAST,Home,227034.53,0.301
+2024-11,	East,FaShIoN,"34,582.66",0.165
+ 2024-11,  East,Sports    ,127417.21,0.107
+2024-11 ,East,beauty   ,212364.61,0.114
+2024-11,East,  Grocery, 69347.68,0.259
+2024-11   ,East,office,243775.32,0.22
+  2024-11,east,Pet,95722.13 ,20%
+2024-11,west ,ELECTRONICS,227100.15, 0.096 
+2024-11   ,West      ,HoMe,133277.14 ,0.242
+  2024-11   ,	  West,Fashion  ,USD 141377.08,0.096
+2024-11,WeSt,  SPORTS,155336.01,0.316
+2024-11,WeSt,Beauty,112725.21,0.34
+2024-11,WeSt,GROCERY,208197.55,0.236
+2024-11,West,office, 237886.26,0.112
+2024-11,  West, Pet,$47228.54,0.157
+  2024-11,Central,Electronics,USD 226672.42,0.259
+  2024-11,Central,    home,184137.86, 0.285 
+2024-11 ,	Central   , Fashion,ten,missing
+2024-11   ,	  Central,SPORTS  ,233629.5,0.225
+	2024-11  ,Central      ,  BEAUTY,-85914.06,0.172
+2024-11   ,Central, Grocery,84351.22,0.282
+  2024-11  ,central,Office,54209.51,n/a
+2024-11,  Central, Pet,128533.94,0.245
+2024-11,International,Electronics,85630.79, 0.213 
+2024-11,	  International,  Home,121869.0,0.337
+2024-11, International,Fashion  , 51063.79, 0.251 
+  2024-11,International,SPORTS   ,$229498.30,0.335
+ 2024-11  ,International,BEAUTY,44466.1,0.157
+ 2024-11 ,International,  Grocery, 249729.85,18.3%
+  2024-11,International, OfFiCe,152450.88,0.316
+2024-11,	  International , PET,235923.73, 0.238 
+2024-12,    North    ,  Electronics ,231510.60 ,0.301
+ 2024-12,North  ,  Home,USD 188731.26,0.148
+2024-12,    north, FaShIoN,232308.63,17%
+2024-12,North,  sports   ,237382.20 ,26%
+ 2024-12,North,BEAUTY,84107.44 ,17.5%
+2024-12,north,Grocery,214450.29 ,0.164
+  2024-12,North,Office,114641.85,18.5%
+2024-12 ,NORTH,Pet ,USD 62323.03,0.249
+2024-12,	South   ,electronics,$227037.57, 0.218 
+2024-12, South,Home,"154,840.86",30%
+2024-12,SOUTH,NA,USD 98646.37, 0.211 
+2024-12  ,South,	Sports,"216,540.75",
+2024-12   ,South,Beauty,212319.5,0.175
+  2024-12,south,Grocery,105598.26,0.298
+2024-12, south,OfFiCe  ,44511.4,0.177
+2024-12 ,South,Pet   ,198058.26 ,0.32
+2024-12,	East,  ElEcTrOnIcS,36634.91,0.331
+2024-12,	East,Home ,63458.08,0.17
+2024-12  ,east,  Fashion  ,"118,054.23",8.2%
+  2024-12,	 East, Sports ,$185758.66,0.146
+  2024-12,  East,Beauty,152517.57,0.119
+  2024-12,east,Grocery,66989.77,34%
+2024-12,EAST,Office, 66102.84,0.255
+ 2024-12, East,Pet ,USD 157202.49,0.096
+2024-12,West, Electronics,204433.39,0.334
+2024-12,West,Home,218616.31,0.082
+2024-12,West ,	 Fashion,"249,690.04",30%
+2024-12,West   ,Sports,error,0.159
+ 2024-12,WEST,Beauty,104488.25,17%
+2024-12,west,	GROCERY, 36794.16,
+2024-12 ,west  , Office  ,139473.99,0.203
+2024-12,west,pet   ,169440.37,0.273
+2024-12,Central,Electronics,177361.75,0.254
+	2024-12,Central,  Home,49767.97 ,34%
+ 2024-12,CENTRAL   ,FASHION,96131.95,0.345
+2024-12,  CeNtRaL,SPORTS,75002.02,0.327
+  2024-12 ,CeNtRaL,Beauty,51262.49,0.195
+2024-12,Central,Grocery,127470.59 ,13%
+  2024-12,Central, Office,"145,570.37",0.331
+	2024-12  ,Central  ,Pet,148820.17,0.332
+2024-12,International,Electronics  ,167143.42,22%
+2024-12,  International,  HoMe,164893.17 , 0.086 
+  2024-12,  International,Fashion   ,USD 129553.89, 0.323 
+  2024-12,  International,Sports,71610.98, 0.223 
+2024-12, International,Beauty,USD 86086.37,33.3%
+2024-12, International,Grocery   ,133649.91 ,NA
+2024-12,International, Office,$149550.60,missing
+ 2024-12,International,Pet,"30,466.68",0.277
+2025-01,North,ELECTRONICS ,USD 86407.37,0.303
+2025-01,	 NORTH   ,Home, 215641.41,19.7%
+ 2025-01,NORTH,Fashion   ,75815.47,0.295
+2025-01 ,North,SPORTS   ,USD 223680.08,0.208
+2025-01, North,	  beauty  ,$78815.50,0.199
+2025-01, NoRtH  ,GROCERY,183072.45,0.124
+2025-01, North,OFFICE  ,"78,586.17",0.166
+ 2025-01,  North, pet, 157692.24,0.229
+2025-01,South,Electronics   ,143837.18,0.08
+2025-01, SoUtH,Home,$96024.07,13%
+2025-01,South  ,fashion,79216.5,0.308
+2025-01 ,south,SpOrTs,41684.6,12%
+2025-01,South, Beauty,,32%
+2025-01,South,Grocery,70409.66,20%
+2025-01,south  ,Office,55586.23,18.3%
+2025-01,south   ,Pet,232299.7,0.204
+2025-01,east,ELECTRONICS   ,USD 141068.32,18.3%
+2025-01,East,  Home ,n/a,0.229
+  2025-01,East  ,Fashion,213244.01,N/A
+2025-01,east,  Sports,153823.44 ,0.265
+2025-01,  EAST, Beauty,169531.58,0.195
+  2025-01,East  ,Grocery,188305.22,0.256
+2025-01      ,East   ,office,"202,714.48",0.211
+2025-01,East,Pet,133957.49,0.086
+2025-01,West  ,	Electronics,159530.63,16.1%
+2025-01,West,Home,"70,147.57",0.34
+2025-01 ,West,Fashion,-90093.43, 0.261 
+2025-01,West, SPORTS,192661.56,0.309
+ 2025-01 ,  WEST,Beauty,201687.57,0.227
+2025-01,West,grocery,136276.93, 0.258 
+2025-01,West,office ,NA,0.117
+2025-01  , West ,Pet,211463.92 ,32%
+2025-01,  Central,Electronics,115528.12,0.28
+ 2025-01,unknown,home,USD 35897.91,0.104
+2025-01, Central, Fashion,246940.0,0.087
+2025-01,CENTRAL ,sports,183777.21,0.213
+ 2025-01,CeNtRaL,Beauty, 86221.75,0.328
+  2025-01,Central  ,Grocery,171639.1,0.306
+  2025-01,CeNtRaL,  OFFICE,66508.41,0.168
+2025-01,None,Pet,247203.18,0.277
+2025-01,  International,ElEcTrOnIcS,75263.92,0.29
+ ,International   ,Home,USD 132820.69,0.17
+2025-01, INTERNATIONAL   ,Fashion,85861.68,11.7%
+2025-01,International,sports,68374.97,0.19
+ 2025-01,International,  Beauty,35798.44 ,0.107
+ 2025-01 ,InTeRnAtIoNaL,Grocery,"135,586.42",0.201
+    2025-01, InTeRnAtIoNaL,Office  ,65054.99,0.088
+2025-01 ,International   ,Pet,84030.09 ,0.324
+2025-02,NORTH  ,Electronics,109896.72,0.225
+ 2025-02,NORTH,Home,177070.78,0.237
+2025-02,North  ,  fashion ,187851.67,14%
+2025-02,	North ,SPORTS,42173.95,0.343
+N/A, NORTH,  Beauty,null,0.309
+2025-02,north,Grocery  ,108889.77,16.6%
+2025-02, north,    Office    ,139746.73, 0.121 
+  2025-02,NORTH, PET , 89952.58,0.294
+2025-02,South,Electronics,$148053.83, 0.33 
+2025-02 ,south,Home,$224757.34, 0.332 
+2025-02,south,  Fashion   ,$30795.23, 0.211 
+2025-02,South,SPORTS,142907.49 ,24%
+	2025-02,South,Beauty,$141333.62,0.197
+  2025-02,south,Grocery,235487.5,0.279
+2025-02,SOUTH,  Office,221741.77,0.253
+2025-02 ,    South,Pet      , 232624.65,24.4%
+2025-02, east  ,Electronics, ,9%
+  2025-02 ,East ,Home,37443.12,0.324
+	  2025-02, East,FASHION,$215522.17, 0.247 
+ 2025-02,east,Sports ,"121,106.93",0.092
+ 2025-02, EaSt,beauty ,212711.06,0.324
+2025-02,East,Grocery,107310.01,0.197
+  2025-02,EaSt  ,Office,"115,755.20",0.109
+    2025-02,East,PET,USD 33425.97,0.324
+2025-02,West  ,  Electronics ,136813.68,32%
+2025-02,WEST,home, 222006.36,12.2%
+2025-02,  west,FaShIoN,166172.88,0.339
+2025-02   ,West,SpOrTs,$240704.48,0.244
+2025-02   ,West,Beauty   ,-126109.00,0.255
+  2025-02   ,WeSt ,grocery,236211.56,0.242
+2025-02,West,Office,112729.58,28%
+  2025-02  ,West,Pet,67373.78,14.9%
+ 2025-02   , Central,Electronics,$121002.19,0.135
+  2025-02,    CeNtRaL    ,Home,119447.32,0.344
+2025-02,CENTRAL,Fashion,115042.78,12.5%
+2025-02,  Central,Sports,100622.7,0.301
+2025-02 ,	Central,Beauty,$41042.66,0.28
+2025-02,CENTRAL,GrOcErY,93393.70,34.5%
+2025-02,Central,	Office,65302.79,26.0%
+2025-02,central ,missing,"77,105.62",32%
+ 2025-02,international  , Electronics,193296.95,0.206
+2025-02,International ,Home  ,243180.27,20.2%
+ 2025-02,International,FASHION,"166,453.38",
+2025-02,  INTERNATIONAL,Sports ,218100.72,0.173
+2025-02 ,INTERNATIONAL ,Beauty ,$142076.47,0.153
+2025-02 , International,GROCERY,USD 135979.68,0.173
+2025-02,International   ,n/a, 108208.08,0.292
+2025-02,International  ,Pet,129248.49,0.263
+	2025-03,north,Electronics,USD 86587.41, 0.167 
+2025-03  ,North,  Home,$188859.83,0.183
+ 2025-03, North , Fashion,86240.94,0.25
+  2025-03,north,Sports,106821.19,0.27
+2025-03,North ,  Beauty ,228172.27 , 0.092 
+2025-03,NORTH ,Grocery,246822.91,27.0%
+2025-03,North,Office,unknown,0.202
+2025-03,North,  pet,USD 186429.21,20%
+2025-03   ,South,Electronics      ,61208.49,0.322
+2025-03,South,Home   ,"97,062.98", 0.213 
+  2025-03,  South,Fashion   ,USD 195737.95,0.185
+2025-03,South   ,SPORTS,246644.17,0.17
+2025-03  ,SOUTH,beauty  ,247346.77 ,0.317
+ 2025-03,South ,Grocery,59645.17,25%
+2025-03, South  , Office,199011.51 ,0.241
+2025-03,  South,  Pet,88883.82,0.222
+2025-03,East,Electronics,164151.58,0.252
+ 2025-03,east,Home,$239060.34,32%
+2025-03  ,east,Fashion , 209829.07,0.343
+2025-03, East ,SPORTS,"175,676.03",32.4%
+2025-03, East,beauty,77350.47,0.307
+2025-03,East,Grocery,157627.86,19.3%
+2025-03,EaSt  ,Office   ,42432.6,0.185
+2025-03,east,pet,$99994.56,0.12
+,West,Electronics, 40320.79,27%
+2025-03   , west   , Home,122808.57 ,0.149
+  2025-03,West ,Fashion ,213672.08, 0.229 
+  2025-03,West    ,Sports,35915.13,0.224
+2025-03   ,	WEST    ,Beauty,78214.34,0.106
+2025-03,West   ,Grocery,USD 75526.61,0.107
+2025-03,West   ,Office,218978.04, 0.229 
+2025-03,WEST,pet  ,243883.72,0.195
+2025-03,Central,Electronics   ,111095.57,0.346
+  2025-03, Central   ,  Home,224812.52 ,0.169
+2025-03,Central   , FASHION, 158334.96,None
+2025-03 ,Central,Sports  ,242780.67,0.208
+2025-03,central,Beauty ,142564.21,0.1
+ 2025-03,Central,GROCERY,200455.2,0.194
+2025-03  ,Central,Office,73010.30,0.224
+    2025-03, Central,Pet,USD 181621.69,32.1%
+2025-03 ,international,Electronics,228743.05,0.266
+ 2025-03,INTERNATIONAL ,HOME,184802.66,
+2025-03  ,International,  Fashion,117622.88 , 0.307 
+  2025-03  ,International,Sports  ,zero,0.278
+2025-03,International,Beauty , 238842.78,0.156
+ 2025-03, International ,Grocery,64276.9,0.223
+2025-03,International,Office,199080.07,18%
+2025-03,INTERNATIONAL,  Pet,207788.86 ,0.273
+2025-04 ,North,Electronics   ,183983.55 , 
+2025-04,None,Home,200178.62,0.299
+2025-04,North,Fashion,89652.55,31.0%
+2025-04   ,north ,Sports,142247.68,14%
+2025-04, North, Beauty,158603.66,0.207
+2025-04,North,Grocery,210530.31,0.087
+  2025-04,	 North ,Office   ,$166655.03,32%
+  2025-04  ,  North, PET,132876.95,28.0%
+?, south,electronics,244148.0,0.341
+2025-04,South,  home,177826.21,23.0%
+2025-04   ,NA, Fashion,153755.25,0.308
+2025-04,South,Sports,237872.43 , 0.282 
+2025-04,South,beauty,193278.45,0.282
+	2025-04, South,Grocery,$76812.67,0.122
+ 2025-04,South,  Office,164592.32 ,0.346
+2025-04   ,South ,pet,150407.34,0.277
+2025-04  ,East,Electronics,148635.89,19%
+	2025-04 ,East,Home,165750.26,26.1%
+2025-04,east, Fashion,248474.52, 0.308 
+missing,  East   ,SPORTS, 44636.22,34%
+ 2025-04,  East,beauty ,132617.64,0.26
+2025-04,East,unknown,64850.06,20.1%
+ 2025-04,East,office,40486.16,0.284
+	2025-04  ,	East,Pet,153303.17,0.335
+2025-04  ,West,Electronics,$133626.69,0.239
+2025-04, West,Home ,144002.94,0.308
+2025-04,West,Fashion  ,147184.97, 0.344 
+2025-04 ,WEST, Sports,156354.05 ,0.25
+2025-04,West, Beauty, 86486.15, 
+ 2025-04 ,west, Grocery,214515.54,0.155
+2025-04,west,Office,209920.27,0.31
+ 2025-04 , West  ,Pet,"172,618.17",0.119
+2025-04  ,central,electronics ,179502.2,0.112
+2025-04,Central,Home,249168.58,20%
+ 2025-04,CENTRAL  ,Fashion,124363.56,0.276
+2025-04,CeNtRaL,SPORTS,USD 222285.52,0.26
+2025-04,Central   ,  beauty ,133612.42,0.112
+  2025-04,CENTRAL,Grocery,135669.23,0.209
+  2025-04   ,central,	Office,214095.85,0.29
+2025-04,	Central, pet,203581.17,0.231
+ 2025-04,InTeRnAtIoNaL      ,Electronics,132839.29,0.145
+2025-04,  International, HOME,107456.95,0.264
+2025-04, International  ,Fashion  ,USD 131175.66,0.213
+2025-04,InTeRnAtIoNaL,sports  ,95056.22,18.4%
+2025-04  ,International,Beauty ,"87,358.25",0.106
+ 2025-04,International,Grocery,46811.86,22.6%
+2025-04,INTERNATIONAL,Office  ,36211.58, 0.208 
+null,International,Pet,124333.37,0.164
+  2025-05,north ,electronics,249467.59, 0.349 
+2025-05   ,  NORTH  ,Home,232367.73,13%
+2025-05,North,Fashion,-188464.86 ,9%
+2025-05   ,north ,SPORTS  ,245814.22,30.8%
+  2025-05,North,Beauty,USD 241082.60,17%
+2025-05,North , Grocery  ,132959.95 ,0.234
+2025-05   ,North,Office,91188.83,0.19
+2025-05,  North,pet ,48320.59,missing
+2025-05,South,  Electronics,231576.30,0.137
+2025-05,SOUTH,,67671.04,0.265
+2025-05,South,Fashion,70054.87,0.177
+2025-05,South,sports,130565.05,0.085
+2025-05,South   ,Beauty,220609.14,0.118
+2025-05 ,South,  GROCERY   , 69426.15,0.099
+2025-05,South,Office,USD 72159.38,0.209
+  2025-05,South,Pet,"217,127.92",26.6%
+missing,East,Electronics,122467.14,NULL
+2025-05,East ,Home,71952.08,25%
+2025-05,East,Fashion,123406.88,0.22
+2025-05, East,Sports,181133.43,0.288
+ 2025-05,    East,  Beauty,"60,263.24", 0.107 
+2025-05,East,GROCERY, 87880.66, 0.287 
+2025-05,East, office,zero,28.8%
+2025-05,East,  Pet,143327.60,0.281
+2025-05,West  , electronics,missing, 0.144 
+2025-05,WEST,Home  ,188194.58,0.186
+2025-05      ,West,FaShIoN   ,57698.42,0.313
+  2025-05,West,Sports,USD 202454.92, 0.129 
+ 2025-05,WEST,BEAUTY   ,228364.55,0.179
+ 2025-05,West,GROCERY,63282.42,0.12
+2025-05, West   ,office,$90635.64,0.239
+2025-05   ,WEST  ,Pet,235840.84,0.207
+2025-05   , Central,Electronics,30960.29,-
+2025-05,Central,  Home   ,null,0.105
+ 2025-05,Central,?,"82,513.13",0.219
+2025-05,Central ,Sports,$89150.98,0.086
+ 2025-05,Central, Beauty,None,0.34
+2025-05 ,central,Grocery,,25.5%
+2025-05,Central,Office ,207966.65,0.097
+2025-05,Central,Pet,191662.22,0.332
+2025-05,International,Electronics ,191754.63,0.097
+2025-05,  International  ,  Home      ,$66494.92,0.271
+2025-05  ,international   ,Fashion ,201292.12,32.7%
+  2025-05 ,International ,Sports,164248.83,0.097
+2025-05,International  ,beauty,96816.97,0.163
+2025-05,International ,grocery   , 32034.62, 0.318 
+2025-05,international,Office,USD 170042.34,0.169
+2025-05,International ,PET, 73676.39,27.6%
+2025-06 ,north, Electronics,71459.76,0.11
+2025-06,North  , HOME,198251.23,0.114
+2025-06,  North,Fashion ,49265.05,23.0%
+2025-06,North ,Sports,236496.42,0.296
+  2025-06,  north ,BEAUTY,171226.85,20.1%
+2025-06,North,Grocery,171671.01, 0.316 
+2025-06  ,NORTH,Office   ,124002.42, 0.331 
+2025-06,North,PET,245044.96,0.249
+ 2025-06,SOUTH,electronics    ,"246,145.99",0.281
+  2025-06,South,Home ,$66934.09, 0.275 
+2025-06,South,Fashion,184923.44,0.287
+2025-06,South,Sports,80693.96,0.296
+2025-06,South,Beauty    ,127614.37,18.8%
+2025-06,  South,GROCERY,36694.15,0.14
+2025-06, South,Office,198265.57,25.8%
+NULL,South,Pet  ,$103166.86,0.093
+2025-06,East,Electronics ,141516.32,32.3%
+2025-06,  East,HoMe  ,37283.6,16%
+2025-06,East,Fashion,48069.13,0.249
+2025-06,East  ,  Sports,243042.3,0.108
+2025-06  ,East   ,Beauty,74746.73,0.19
+2025-06,East   ,Grocery,113801.67,null
+  2025-06,EAST,Office,240278.47,0.243
+ 2025-06  ,East,pet,61166.17 ,0.096
+2025-06  ,WEST,  ElEcTrOnIcS,"245,192.26",0.155
+2025-06  ,  West,  Home,86899.62 ,11%
+2025-06, West,Fashion,75445.32 ,0.349
+  2025-06,WEST   ,Sports  ,56125.55,0.239
+2025-06,WeSt,Beauty,USD 192823.75,0.24
+2025-06 ,West,GrOcErY,79811.56,0.109
+2025-06,West,Office,99710.86,0.086
+2025-06, West,Pet,USD 194886.68,30%
+2025-06,Central,Electronics,54471.99,0.281
+  2025-06,Central,Home,$187975.25,13.8%
+2025-06,  Central,Fashion,225898.2,0.303
+2025-06,Central  ,Sports,error, 0.139 
+?,Central,BEAUTY,235350.13,0.193
+2025-06,Central, grocery,53384.9,0.153
+	  2025-06   , Central,Office    ,200389.69,22.5%
+2025-06,  ,Pet,94926.09,20%
+2025-06,International,Electronics   ,124265.98,19.7%
+  2025-06,INTERNATIONAL, Home,108403.17,18.5%
+  2025-06, International,FASHION,$144398.61,20.6%
+2025-06   ,INTERNATIONAL,Sports,$132161.84,14%
+2025-06,	INTERNATIONAL,	 Beauty, 147307.44, 0.291 
+2025-06,International      ,Grocery,192465.69,0.277
+ 2025-06  , International,Office,USD 72763.56,0.296
+2025-06,International,pet   ,238982.64, 0.184 
